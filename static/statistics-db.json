@@ -1,7 +1,7 @@
 [
 {
     "id": 0,
-    "imageUrl": "/images/favicon.png",
+    "imageUrl": "/favicon.png",
     "title": "CO2 Emissions",
     "description": "A visualization",
     "source": "World Bank",
