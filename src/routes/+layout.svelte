@@ -3,7 +3,7 @@
 	
 	let { children } = $props();
 
-	const GITHUB_URL = "https://github.com/stats-right/stats-right.github.io/issues/new?template=add-statistic";
+	const GITHUB_URL = "https://github.com/stats-right/stats-right.github.io/issues/new?template=add-statistic.md";
 </script>
 
 <svelte:head>
