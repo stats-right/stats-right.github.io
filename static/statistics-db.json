@@ -1,1 +1,14 @@
-[]
+[
+{
+    "id": 0,
+    "imageUrl": "/images/favicon.png",
+    "title": "CO2 Emissions",
+    "description": "A visualization",
+    "source": "World Bank",
+    "sourceUrl": "https://data.worldbank.org/",
+    "tags": {
+      "visible": ["climate", "environment", "emissions", "health"],
+      "hidden": ["carbon dioxide"]
+    }
+  }
+]
