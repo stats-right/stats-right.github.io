@@ -96,5 +96,16 @@
       ],
       "hidden": []
     }
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://ipfs.io/ipfs/bafkreicw5yxqjakccnhtqqxz3vuoj5vcsi55dscdyt4moc63xxwqt744um",
+    "title": "Graph11",
+    "tags": {
+      "visible": [
+        "test"
+      ],
+      "hidden": []
+    }
   }
 ]
