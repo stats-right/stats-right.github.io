@@ -85,5 +85,16 @@
       ],
       "hidden": []
     }
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://ipfs.io/ipfs/bafkreiew7moz3kevwjoxornsosbrt4nnsesnrysvjlowiqbdgdt7pp4ymq",
+    "title": "Graph10",
+    "tags": {
+      "visible": [
+        "test"
+      ],
+      "hidden": []
+    }
   }
 ]
