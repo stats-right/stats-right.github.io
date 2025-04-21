@@ -107,5 +107,16 @@
       ],
       "hidden": []
     }
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://ipfs.io/ipfs/QmdNMbaZWAVaHP32QMMwbdNDnEzrr4QAhnWP9NjRRw3Hzh",
+    "title": "Graph100",
+    "tags": {
+      "visible": [
+        "test"
+      ],
+      "hidden": []
+    }
   }
 ]
