@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": 1,
+    "imageUrl": "https://ipfs.io/ipfs/QmXiyJ3ttJF56KVN7gwJC8bCvhuwoe139DwNs654h8mbYi",
+    "title": "Ideological differences in the expanse of the moral circle",
+    "description": "Heatmaps indicating highest moral allocation by ideology, Study 3a. Source data are provided as a Source Data file. Note. The highest value on the heatmap\nscale is 20 units for liberals, and 12 units for conservatives. Moral Circle rings, from inner to outer, are described as follows: (1) all of your immediate family,\n(2) all ofyour extended family, (3) all ofyour closest friends, (4) all of your friends (including distant ones), (5) all ofyour acquaintances, (6) all people you\nhave ever met, (7) all people in your country, (8) all people on your continent, (9) all people on all continents, (10) all mammals, (11) all amphibians, reptiles,\nmammals, fish, and birds, (12) all animals on earth including paramecia and amoebae, (13) all animals in the universe, including alien lifeforms, (14) all living\nthings in the universe including plants and trees, (15) all natural things in the universe including inert entities such as rocks, (16) all things in existence",
+    "source": "Nature 2019",
+    "sourceUrl": "https://www.nature.com/articles/s41467-019-12227-0",
+    "tags": {
+      "visible": [
+        "morality",
+        "left-right",
+        "family"
+      ],
+      "hidden": [
+        "english",
+        "environmentalism"
+      ]
+    }
+  }
+]
