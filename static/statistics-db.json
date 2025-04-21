@@ -1,5 +1,5 @@
 [
-{
+  {
     "id": 0,
     "imageUrl": "/favicon.png",
     "title": "CO2 Emissions",
@@ -7,8 +7,37 @@
     "source": "World Bank",
     "sourceUrl": "https://data.worldbank.org/",
     "tags": {
-      "visible": ["climate", "environment", "emissions", "health"],
-      "hidden": ["carbon dioxide"]
+      "visible": [
+        "climate",
+        "environment",
+        "emissions",
+        "health"
+      ],
+      "hidden": [
+        "carbon dioxide"
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://stats-right.com/favicon.png",
+    "title": "Test",
+    "tags": {
+      "visible": [
+        "test"
+      ],
+      "hidden": []
+    }
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://stats-right.com/favicon.png",
+    "title": "Test2",
+    "tags": {
+      "visible": [
+        "test"
+      ],
+      "hidden": []
     }
   }
 ]
