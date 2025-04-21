@@ -74,5 +74,16 @@
         "url": "https://example.com"
       }
     ]
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://ipfs.io/ipfs/bafkreia5f3q3h7nh4765k2eozwk4smhkqiv3ucvld3jst5yn7rxmjpmcqe",
+    "title": "Graph2",
+    "tags": {
+      "visible": [
+        "test"
+      ],
+      "hidden": []
+    }
   }
 ]
