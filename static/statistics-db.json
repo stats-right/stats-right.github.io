@@ -39,5 +39,16 @@
       ],
       "hidden": []
     }
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://ipfs.io/ipfs/undefined",
+    "title": "Test3",
+    "tags": {
+      "visible": [
+        "test"
+      ],
+      "hidden": []
+    }
   }
 ]
