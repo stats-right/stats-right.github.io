@@ -1,0 +1,72 @@
+@import 'tailwindcss';
+@config "../tailwind.config.js";
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: Georgia, serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background-color: #d9cca1;
+	color: #3c2e13;
+}
+
+.rs-button {
+	background-image: linear-gradient(to bottom, #c9a83a, #a98c30);
+	border: 2px solid #593c15;
+	border-radius: 4px;
+	color: #3c2e13;
+	font-weight: bold;
+	padding: 0.5rem 1rem;
+	text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.2);
+	transition: all 0.2s ease;
+}
+
+.rs-button:hover {
+	background-image: linear-gradient(to bottom, #e4c157, #c9a83a);
+	transform: translateY(-1px);
+}
+
+.rs-button:active {
+	background-image: linear-gradient(to bottom, #a98c30, #c9a83a);
+	transform: translateY(1px);
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+.rs-panel {
+	background-color: #e6ddbf;
+	border: 3px solid #78501b;
+	border-radius: 6px;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), inset 0 1px 0 rgba(255, 255, 255, 0.7);
+}
+
+h1.rs-heading,
+h2.rs-heading,
+h3.rs-heading {
+	color: #593c15;
+	text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
+	font-weight: bold;
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+	width: 10px;
+	height: 10px;
+}
+
+::-webkit-scrollbar-track {
+	background: #d9cca1;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #78501b;
+	border-radius: 4px;
+	border: 2px solid #d9cca1;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #9e6d2c;
+}
