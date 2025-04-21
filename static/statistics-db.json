@@ -50,5 +50,29 @@
       ],
       "hidden": []
     }
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://ipfs.io/ipfs/undefined",
+    "title": "Graph",
+    "description": "A graph",
+    "source": "test source",
+    "sourceUrl": "https://example.com",
+    "tags": {
+      "visible": [
+        "test"
+      ],
+      "hidden": [
+        "test2",
+        "test3"
+      ]
+    },
+    "links": [
+      {
+        "type": "download",
+        "label": "Download now",
+        "url": "https://example.com"
+      }
+    ]
   }
 ]
