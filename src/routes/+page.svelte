@@ -21,7 +21,7 @@
   let selectedStatistic = $state<Statistic | null>(null);
   
   // Number of random statistics to show on the home page
-  const RANDOM_STATS_COUNT = 3*4;
+  const RANDOM_STATS_COUNT = 120;
   
   onMount(async () => {
     // Initialize the store with pre-loaded data from the server
@@ -194,8 +194,8 @@
     {:else if !isLoading}
 	<div class="mb-6 flex justify-between items-center">
         <div>
-          <h2 class="text-xl font-bold text-rs-brown">Featured Statistics</h2>
-          <p class="text-rs-text text-sm">A randomized set of statistics</p>
+          <h2 class="text-xl font-bold text-rs-brown">Random Statistics</h2>
+          <p class="text-rs-text text-sm">A randomized set of statistics. Refresh for new statistics</p>
         </div>
         <div class="bg-rs-gold-light px-4 py-2 rounded-lg border-2 border-rs-gold flex items-center">
           <span class="text-rs-brown font-bold">{$statisticsStore.allStatistics.length}</span>
