@@ -528,5 +528,177 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 31,
+    "imageUrl": "https://ipfs.io/ipfs/QmYBLbrx8PhTQ25xCYDUiAKKj8EMeFQ7LAFAWooYuFSnKD",
+    "title": "Harvard Admission Rates by race and decile",
+    "source": "aei.org",
+    "tags": {
+      "visible": [
+        "college",
+        "usa",
+        "race",
+        "dei",
+        "education"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "imageUrl": "https://ipfs.io/ipfs/QmdqYpy7dDVAXyGErc7BBBYWicg7bA1xYYmKirRSsQ4o1W",
+    "title": "Has a doctor or healthcare provider EVER told you that you have a mental health condition?",
+    "source": "Pew (2020)",
+    "tags": {
+      "visible": [
+        "mental-illness",
+        "left-right",
+        "gender"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "imageUrl": "https://ipfs.io/ipfs/Qma16BzF1GNZfGCuGRtXHtitqrmSbttregGdx7RM5mgNBC",
+    "title": "Manche sehen in Trump eine Art Messias (Die Erlöserin)",
+    "description": "Trump und Kamala Harris Messias",
+    "source": "Süddeutsche Zeitung, Stern",
+    "tags": {
+      "visible": [
+        "trump",
+        "politicians",
+        "religion"
+      ],
+      "hidden": [
+        "german",
+        "germany"
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "imageUrl": "https://ipfs.io/ipfs/QmWc4FJx4PDxxRYig4TB4CR7M1xnd76CTzkStsEyZs6ngd",
+    "title": "35 Recessions in the U.S. Since 1854",
+    "description": "Recessions in the U.S. since 1854. Shaded periods indicate recession.",
+    "tags": {
+      "visible": [
+        "economy",
+        "usa",
+        "recession"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "imageUrl": "https://ipfs.io/ipfs/QmYGYwwQopn7P2tEBkSWqxAfNHeiTC2sDEpcEVyBt6J2J5",
+    "title": "LGBTQ+ Identity, by Generation, 2023",
+    "description": "Which of the following do you consider yourself to be? You can select as many as apply. Straight or\nheterosexual; Lesbian; Gay; Bisexual; Transgender",
+    "tags": {
+      "visible": [
+        "lgbtq",
+        "youth"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "imageUrl": "https://ipfs.io/ipfs/QmTTPE3GV1Pc1XC6E4ABKGtXqFwXBYadPKoqHxioFs4X6A",
+    "title": "Strafen für illegale Einreise (illegal immigration)",
+    "source": "Independent poster",
+    "tags": {
+      "visible": [
+        "immigration",
+        "illegal-immigation",
+        "welfare",
+        "crime"
+      ],
+      "hidden": [
+        "german",
+        "germany"
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "imageUrl": "https://ipfs.io/ipfs/QmUAd16KLt7ns18hXQGQN2ufguvmN1oQMYcrk3V2Duoi3z",
+    "title": "Senat des Bundesverfassungsgerichts",
+    "description": "Parteimitglieder im Bundesverfassungsgericht",
+    "tags": {
+      "visible": [
+        "politicians",
+        "corruption"
+      ],
+      "hidden": [
+        "german",
+        "germany"
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "imageUrl": "https://ipfs.io/ipfs/QmUqYmKku44KEkG7XA398Z7hX26VWT2kLKAsNoqBiBKEGj",
+    "title": "Germany's gay vote, by age",
+    "description": "Voting intention of users of Romeo, a gay, bisexual, transgender, queer, and non-binary\ndating app. All users in Germany were sent an in-app message inviting them to participate",
+    "source": "The Spectator, Romeo.com",
+    "tags": {
+      "visible": [
+        "lgbtq",
+        "immigration",
+        "politicians",
+        "left-right",
+        "germany"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "imageUrl": "https://ipfs.io/ipfs/QmUURaEPvcb9kcERF3TgkBfH6gWKeTgiRpoBSvKNnTSkFq",
+    "title": "The partisan gap between young men and women almost doubled in the past 25 years",
+    "description": "Political ideology of US 18 to 29 year olds, by gender",
+    "source": "Gallup Poll Social Series data",
+    "tags": {
+      "visible": [
+        "gender",
+        "left-right"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "imageUrl": "https://ipfs.io/ipfs/Qmbts6dc93dCYCcsguvMe8xGxPBwKF8kyY9fjr6u6if3yw",
+    "title": "Hamburg city districts With many migrants tend to vote AfD rather than Greens",
+    "description": "Neighborhoods with a high share of migrants tended to vote for AfD in Germany.\n",
+    "source": "Statistikamt Nord (2025)",
+    "tags": {
+      "visible": [
+        "politicians",
+        "immigration"
+      ],
+      "hidden": [
+        "german",
+        "germany"
+      ]
+    }
   }
 ]
