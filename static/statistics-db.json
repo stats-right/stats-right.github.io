@@ -255,5 +255,137 @@
         "german"
       ]
     }
+  },
+  {
+    "id": 15,
+    "imageUrl": "https://ipfs.io/ipfs/QmNQYjqrxGAR4KVjAto4jPueZmGBns3krAgLE8AmaGQsGq",
+    "title": "Mitglieder im Verwaltungsrat des ZDF (Öffentlich-Rechtlicher-Rundfunk)",
+    "description": "4 Ministerpräsidenten\n4 verdiente\nParteimitglieder\nJe ein Vorstandsmitglied\nder parteinahen Stiftung",
+    "tags": {
+      "visible": [
+        "germany",
+        "politicians",
+        "free-speech",
+        "public-broadcasting"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "imageUrl": "https://ipfs.io/ipfs/QmYXnavQti4xnqn7SACUxRmF2f6C2k5dTHnvEhG9HfJ3QF",
+    "title": "U.S. Accelerated Warming Since 1895: It's Non-Existent",
+    "description": "NOAA/NCDC repotted monthly temperatures & CO2 levels",
+    "source": "See image",
+    "tags": {
+      "visible": [
+        "climate-change"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "imageUrl": "https://ipfs.io/ipfs/Qmaa8hS9hFLPRz2DT47xKQxuMnjF2kiWVJsx25wiacdaEE",
+    "title": "How Carbon Emission Changed Since 2000",
+    "description": "Carbon Emissions by country",
+    "source": "Global Carbon Budget 2018",
+    "tags": {
+      "visible": [
+        "climate-change"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "imageUrl": "https://ipfs.io/ipfs/QmPYdKy8zuUhwLLcBwTWG54D6iX6rhJTYtQLZgk1LpfBzL",
+    "title": "Percentage of OnlyFans creators in the US",
+    "source": "Statista, Washingtom Examiner",
+    "tags": {
+      "visible": [
+        "youth",
+        "dating",
+        "usa",
+        "gender"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "imageUrl": "https://ipfs.io/ipfs/QmYSV1gQcA5tNnRT5XcDvHgzh5eRDzkKgiyonERDppikMB",
+    "title": "Homicide Deaths Per 100,000 Population",
+    "description": "2010-12 average, high-Human Development Index countries",
+    "tags": {
+      "visible": [
+        "race",
+        "crime"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "imageUrl": "https://ipfs.io/ipfs/QmT3mDYGZTCj5PfBbK4291ag6EzorknMR3wXZV5wL3Gvbv",
+    "title": "Murderers per 100,000 by race and gender",
+    "description": "White\nMale\nMurderers\nper 100,000 per 100,000 per 100,000 per 100,000\nper\nHispanic\nMale\nMurderers\nper\nBlack Male\nMurderers\nBlack\nFemale\nMurderers\nHispanic\nFemale\nMurderers\nWhite\nFemale\nMurderers",
+    "source": "FBI Nibers 2021",
+    "tags": {
+      "visible": [
+        "race",
+        "crime",
+        "gender",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "imageUrl": "https://ipfs.io/ipfs/QmbcrgvdTJhvoeAkT3pBhTSY4qi7gCdUkgUDMHLJaMsNZw",
+    "title": "Wahlberechtigte in Altersgruppen in Prozent",
+    "description": "Bundestagswahl 2025",
+    "source": "Infratest dimap",
+    "tags": {
+      "visible": [
+        "youth",
+        "demographics",
+        "politicians",
+        "germany"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "imageUrl": "https://ipfs.io/ipfs/QmY3MdmqsP1qCyNys4nntsivP3jj5Lrm9KBrPJ1jKEZfnD",
+    "title": "Voters' opinions of...",
+    "description": "Donald Trump\nJD Vance\nElon Musk\nDOGE\nVolodymyr Zelenskyy\nDEI\nDemocratic Party",
+    "tags": {
+      "visible": [
+        "gender",
+        "education",
+        "usa",
+        "marriage"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
