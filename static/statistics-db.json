@@ -1107,5 +1107,106 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 65,
+    "imageUrl": "https://ipfs.io/ipfs/QmYqPC2XKg2R2Lr9zkmysj3QvRdBEQr3aSGXebh36JuPmy",
+    "title": "Workers unable to pay emergency expenses",
+    "description": "63% of workers unable to pay a $500\nemergency expense, survey finds.\nHow employers may help change that",
+    "source": "CNBC 2023 (meta-citing)",
+    "tags": {
+      "visible": [
+        "economy",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "imageUrl": "https://ipfs.io/ipfs/QmZ7GjwoLNBfRubteqS4A6sEQ1sLTTvyEYGkMfDvp8WGdd",
+    "title": "Economic power share by generation",
+    "tags": {
+      "visible": [
+        "demographics",
+        "economy"
+      ],
+      "hidden": [
+        "boomers",
+        "english",
+        "wealth"
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "imageUrl": "https://ipfs.io/ipfs/QmZk22WYwR8S2XPYpeHb6pdboenfotPiXtFXJtsu4f7Mrv",
+    "title": "Foreign-born share of US population",
+    "description": "in millions",
+    "source": "@CIS_org",
+    "tags": {
+      "visible": [
+        "demographics",
+        "usa",
+        "immigration",
+        "race"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "imageUrl": "https://ipfs.io/ipfs/QmXVbnK1VNL88NQuP7Fx3zWV4qcMWr99FRDQhr8FdsHieN",
+    "title": "Three-fourths of employment growth since 2019 went to immigrants",
+    "description": "Immigrant employment (legal and illegal) is up 3.2 million since 2019, while U.S.-born employment\nis up only 971,000. In the last year U.S.-born employment has actually declined ",
+    "source": "cis.org, Center for Immigration Studies",
+    "sourceUrl": "https://www.cis.org",
+    "tags": {
+      "visible": [
+        "immigration",
+        "economy",
+        "dei",
+        "usa"
+      ],
+      "hidden": [
+        "english",
+        "unemployment"
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "imageUrl": "https://ipfs.io/ipfs/Qme18g38C4LrruXuY8648d3Ztga2e1no8cfxhUxEUukgks",
+    "title": "Global Fertility Rates by Region",
+    "source": "UN Population Division",
+    "tags": {
+      "visible": [
+        "demographics",
+        "race"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "imageUrl": "https://ipfs.io/ipfs/QmWDAo8LUouo61DGoxG6weMvRQH3T98ET3gwghvbdLg4L7",
+    "title": "Are Americans Moving From Blue to Red States?",
+    "description": "Movement between blue and red U.S. states in 2005 and 2022 (in million residents)",
+    "source": "US Census Bureau, Statista",
+    "tags": {
+      "visible": [
+        "usa",
+        "left-right"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
