@@ -855,5 +855,21 @@
         "german"
       ]
     }
+  },
+  {
+    "id": 50,
+    "imageUrl": "https://ipfs.io/ipfs/QmcamuWTTq9py6MZgXA3kg3h6GZ7Vqjz94zKcMPXxv5YBN",
+    "title": "Percent of us 12th Graders who have ever dated",
+    "tags": {
+      "visible": [
+        "usa",
+        "education",
+        "youth",
+        "dating"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
