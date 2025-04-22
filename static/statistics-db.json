@@ -387,5 +387,146 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 23,
+    "imageUrl": "https://ipfs.io/ipfs/QmTFUM7gqxxbAmXTzvQ1waB5CNNWjJbzkk4LLG9YRCmtxo",
+    "title": "Benefit claims per 1,000 by nationality in UK",
+    "source": "Centre for Migration Control",
+    "tags": {
+      "visible": [
+        "economy",
+        "immigration",
+        "taxes",
+        "welfare"
+      ],
+      "hidden": [
+        "english",
+        "uk"
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "imageUrl": "https://ipfs.io/ipfs/QmXiJM9U2AdUUa9nHygz7mrtncHQnkeiWyKWKM3D9HSM7p",
+    "title": "Which nationalities commit the most crime overall",
+    "description": "Conviction rate in England and Wales by nationality per 10,000 population, 2021-2023",
+    "source": "Freedom of information request by Centre for Migration Control",
+    "tags": {
+      "visible": [
+        "immigration",
+        "crime",
+        "uk"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "imageUrl": "https://ipfs.io/ipfs/QmchpFQEXNuWJPVt68wPHYEfSimZfkdmCY23TXQJ8wLgjF",
+    "title": "Canada population vs productivity gains",
+    "description": "Its recent population boom has not come with productivity gains\nIndex 2019 04=100",
+    "source": "OECD",
+    "tags": {
+      "visible": [
+        "immigration",
+        "economy"
+      ],
+      "hidden": [
+        "canada",
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "imageUrl": "https://ipfs.io/ipfs/Qmds54RVCiptdbA7XgUfDN9hWwzG7dsTLfaC5RBoL7pyG4",
+    "title": "Justice under the Belgian regime",
+    "description": "Sven Pichal and Dries Van Langenhove",
+    "source": "https://x.com/lporiginalg/status/1901106163791655345",
+    "sourceUrl": "https://x.com/lporiginalg/status/1901106163791655345",
+    "tags": {
+      "visible": [
+        "crime",
+        "left-right",
+        "judges",
+        "free-speech"
+      ],
+      "hidden": [
+        "belgium",
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "imageUrl": "https://ipfs.io/ipfs/QmXuqHs7PwN2K74hUNaryZrdmfZDTfVRmr6dVLzfoBx9Ht",
+    "title": "Net contribution of immigrants for the Netherlands",
+    "tags": {
+      "visible": [
+        "immigration",
+        "economy",
+        "welfare"
+      ],
+      "hidden": [
+        "netherlands",
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "imageUrl": "https://ipfs.io/ipfs/QmVcfjoGpqtsPS2uycwXX3oMMewiXCxsj5VfYwCrwMs8u7",
+    "title": "% of Incarcerated Black and White men vs. Their Parents Income Percentile",
+    "description": "Comment:\nAmerican blacks commit crimes at at least 3x the rate of whites, and the rare climbs as income climbs \n\nWhatever explains disproportionate black criminality, it can't just be socioeconomic status\n",
+    "tags": {
+      "visible": [
+        "race",
+        "crime",
+        "economy"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "imageUrl": "https://ipfs.io/ipfs/QmPt82XZYYBQDr12nAFFPZjYp7jpTLFd9gnkiirAAKBKqU",
+    "title": "Germany Main income source by country origin",
+    "description": "One in two Germans lives from paid work — impact of migration is ambiguous\nChart shows relative frequencies within groups by country of origin (first and second generation) for predominant household income source\n'Dependency on family members' includes children.\nNote that groups might differ in terms of mean age or length of Stay in Germany, as might generated tax revenue despite similar employment ratios.",
+    "source": "Statistisches Bundesamt (2024): Statistischer Bericht Mikrozensus",
+    "tags": {
+      "visible": [
+        "immigration",
+        "economy",
+        "welfare",
+        "demographics",
+        "germany"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "imageUrl": "https://ipfs.io/ipfs/QmWrV5jxAqyGPMaaK2jWrrKknoSCA2N4kZKBhAdgGLpVkZ",
+    "title": "Political gender gap with German parties",
+    "description": "Positive: Women more likely to vote for\nNegative: Men more likely to vote for",
+    "tags": {
+      "visible": [
+        "gender",
+        "politicians",
+        "left-right",
+        "germany"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
