@@ -141,5 +141,119 @@
         "usa"
       ]
     }
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://ipfs.io/ipfs/QmPC2HKzqH4nUCnwDbGizyM6gSKpLADjnbEwb9C2BdSF4j",
+    "title": "Average net contribution by immigration origin",
+    "description": "Denmark, average net contribution to public finances, by age, 2018",
+    "source": "Danish Finance Ministry",
+    "tags": {
+      "visible": [
+        "immigration",
+        "economy",
+        "taxes"
+      ],
+      "hidden": [
+        "english",
+        "denmark"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://ipfs.io/ipfs/QmcFJNwVHHis7FJ36nriFEsAiN9dfCTH7nta2ATEjRn5fs",
+    "title": "World population by region",
+    "description": "Projected population to 2100 is based on the UNIS medium population scenario.",
+    "source": "Gapminder (v6). HYDE (v3.2). UN (2019)",
+    "tags": {
+      "visible": [
+        "demographics"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://ipfs.io/ipfs/Qmf4CnEaEXYmhtraGLidayX8DMTxx8ESJqb6BM1dnAMqAV",
+    "title": "Per Capita Lifetime Budgetary Impact of Whites, Blacks & Hispanics",
+    "description": "White, Hispanic, Black Budgetary Impact",
+    "source": "See on image",
+    "tags": {
+      "visible": [
+        "race",
+        "taxes",
+        "economy"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    },
+    "links": [
+      {
+        "type": "related",
+        "label": "Average net contribution by immigration origin",
+        "url": "https://stats-right.com/statistics/9/average-net-contribution-by-immigration-origin/"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "imageUrl": "https://ipfs.io/ipfs/QmZU5veBE9EeQidLWHL1o5X821i2T7RarGHzMGGa4BQS5r",
+    "title": "Time spent not working while on the job",
+    "description": "by race and gender",
+    "source": "Racial/ethnic differences in non-work at work, Daniel Hamermesh, Katie Genadek and Michael Burda, NBER, January 2017",
+    "tags": {
+      "visible": [
+        "race",
+        "economy",
+        "gender"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "imageUrl": "https://ipfs.io/ipfs/QmeJwu2Juh8mYLenQd83Ho8fXivgH8hxm4ojrU6SB5BAm1",
+    "title": "Religiöses Bekenntnis an Schulen Wien",
+    "description": "Schülerinnen und Schüler an Wiener Volks- und Mittelschulen 2024/25, Auswahl",
+    "source": "Stadt Wien",
+    "tags": {
+      "visible": [
+        "religion",
+        "islam",
+        "youth",
+        "demographics",
+        "immigration"
+      ],
+      "hidden": [
+        "german",
+        "austria",
+        "vienna"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "imageUrl": "https://ipfs.io/ipfs/QmZ2ztzgBy78gR4Q5rajMK6m8yG3ZfSfiKZ2JP5HZN7dLH",
+    "title": "Tatverdächtige 2024",
+    "description": "Täter pro 100.000 nach Nationalität",
+    "source": "BKA/ Polizeiliche Kriminalstatistik 2024, Tatverdächtigenbelastung der deutschen und nichtdeutschen Wohnbevölkerung ab 8 Jahren nach Alter und Geschlecht",
+    "tags": {
+      "visible": [
+        "immigration",
+        "crime",
+        "gender"
+      ],
+      "hidden": [
+        "germany",
+        "german"
+      ]
+    }
   }
 ]
