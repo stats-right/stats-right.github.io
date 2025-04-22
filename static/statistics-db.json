@@ -700,5 +700,160 @@
         "germany"
       ]
     }
+  },
+  {
+    "id": 41,
+    "imageUrl": "https://ipfs.io/ipfs/QmPJJvFiaQGjSeGrsCqXd97iryDEje7ohojooc1iJKhgAj",
+    "title": "Country of origin of Norwegian crimes per 1000",
+    "tags": {
+      "visible": [
+        "crime",
+        "immigration"
+      ],
+      "hidden": [
+        "norwegian",
+        "norway"
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "imageUrl": "https://ipfs.io/ipfs/QmdkbCTQB98KjDFs7v5tQwkQ7wT28iwAbJHpydYyfM8W8C",
+    "title": "Finland sexual crimes country of origin per 10,000",
+    "description": "Sexual offenses by people born in Finland and immigrants",
+    "source": "Poliisi, Tilastokeskus",
+    "tags": {
+      "visible": [
+        "crime",
+        "immigration",
+        "finland",
+        "rape"
+      ],
+      "hidden": [
+        "finnish"
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "imageUrl": "https://ipfs.io/ipfs/QmVK1HpjnKmqZtb9F4zZEVQken2ywVp6smTPDS2sTLnXCo",
+    "title": "The most significant genetic differences between human races are neurological, impacting thoughts, feelings, and behaviors",
+    "source": "Dong-Dong Wu and Ya-Ping Zhang (2011)",
+    "tags": {
+      "visible": [
+        "race",
+        "science",
+        "genetics"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "imageUrl": "https://ipfs.io/ipfs/QmYEKWgATfn9bjZqPyBbiXQ3zFYiWACzubiR1bStRAmp3g",
+    "title": "So viel Geld geben die Ministerien den Stiftungen und NGOs",
+    "description": "in Millionen Euro",
+    "source": "Bundesministerien, WeLT",
+    "tags": {
+      "visible": [
+        "economy",
+        "politicians",
+        "corruptions",
+        "ngos"
+      ],
+      "hidden": [
+        "german",
+        "germany"
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "imageUrl": "https://ipfs.io/ipfs/QmTmcoKKUao8UyTNdLGvt23nyqPsPUGwMNQnJuR7bKYnby",
+    "title": "Number of police recorded rape offences in England and Wales from 2002/03 to 2022/23",
+    "source": "Statista 2024",
+    "tags": {
+      "visible": [
+        "crime",
+        "rape",
+        "uk",
+        "immigration"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "imageUrl": "https://ipfs.io/ipfs/QmcdBWWi2uRwVK31syxztVAJw5cLPFUK2gHyDnB1mpbQwT",
+    "title": "In Italy, foreigners account for 30% of homicide and violence suspects, and 40% of rape suspects",
+    "source": "IStat.it Autori e vittime dei delitti denunciati dalle forze di polizia all' autorita giudiziaria (crime)",
+    "tags": {
+      "visible": [
+        "crime",
+        "rape",
+        "immigration"
+      ],
+      "hidden": [
+        "english",
+        "italy"
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "imageUrl": "https://ipfs.io/ipfs/QmVJNvUeDWnhXuyDFb6Bq6G3Fn35yAKrxK7ZkqbGES6Ku1",
+    "title": "MIGRATIONSHINTERGRUND DER UNTER 16-JÄHRIGEN IN %",
+    "description": "Jugendliche Migranten zunehmend in der Mehrheit!",
+    "source": "demografie-europa.eu",
+    "sourceUrl": "https://demografie-europa.eu",
+    "tags": {
+      "visible": [
+        "immigration",
+        "demographics",
+        "youth",
+        "germany"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "imageUrl": "https://ipfs.io/ipfs/QmPLsPWLUpLCXEhhBcLcucGkRsbfHBdYiETEizH5DvKYxJ",
+    "title": "Mentions of Political Extremism in English Wikipedia",
+    "description": "far-left and far-right",
+    "source": "English Wikipedia Dump",
+    "tags": {
+      "visible": [
+        "left-right",
+        "free-speech",
+        "media-bias"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "imageUrl": "https://ipfs.io/ipfs/QmQQZxtJfCSTQhYUbFnhootrHcc5ewnfTraQRGNnNZ8K4V",
+    "title": "Wahlverhalten Journalisten 2024",
+    "source": "TU Dortmund",
+    "tags": {
+      "visible": [
+        "politicians",
+        "media-bias",
+        "journalists",
+        "germany"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
   }
 ]
