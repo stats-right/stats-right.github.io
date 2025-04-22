@@ -20,7 +20,7 @@
   }
   
   // Responsive columns - using gallery-style layout
-  let gridClasses = $derived(`grid-cols-1 sm:grid-cols-2 lg:grid-cols-${Math.min(columns, 3)} xl:grid-cols-${columns}`);
+  let gridClasses = $derived(`grid-cols-1 sm:grid-cols-3 lg:grid-cols-${Math.min(columns, 3)} xl:grid-cols-${columns}`);
   let gapClass = $derived(`gap-${gap}`);
 </script>
 

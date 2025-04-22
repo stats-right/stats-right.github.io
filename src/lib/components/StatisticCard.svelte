@@ -29,7 +29,7 @@
       <img 
         src={statistic.imageUrl} 
         alt={statistic.title}
-        class="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
+        class="w-full md:h-96 h-full object-cover transition-transform duration-500 hover:scale-105"
         loading="lazy"
       />
     </div>

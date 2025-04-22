@@ -136,7 +136,7 @@
 					<img
 						src={statistic.imageUrl}
 						alt={statistic.title || 'Statistical visualization'}
-						class="h-full max-h-[80vh] w-full"
+						class="h-full max-h-[80vh] w-full object-contain"
 					/>
 					<div class="absolute bottom-2 right-2 bg-black bg-opacity-50 text-white text-xs px-2 py-1 rounded">
 						Click to open in full size

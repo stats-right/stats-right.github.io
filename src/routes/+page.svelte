@@ -21,7 +21,7 @@
   let selectedStatistic = $state<Statistic | null>(null);
   
   // Number of random statistics to show on the home page
-  const RANDOM_STATS_COUNT = 12;
+  const RANDOM_STATS_COUNT = 3*4;
   
   onMount(async () => {
     // Initialize the store with pre-loaded data from the server
