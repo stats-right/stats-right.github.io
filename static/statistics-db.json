@@ -871,5 +871,241 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 51,
+    "imageUrl": "https://ipfs.io/ipfs/Qme32buY4yZRFTyLEmAygf8Y1wQKwaff9cyQCQujLthu85",
+    "title": "Brain Sizes by Race and Ethnicity in a Sample of American 10-Year-Olds",
+    "description": "Data Collected in 2017 and Adjusted for Age and Sex",
+    "source": "Adolescent Brain Cognitive Development Study",
+    "tags": {
+      "visible": [
+        "race",
+        "genetics",
+        "science"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "imageUrl": "https://ipfs.io/ipfs/QmetvqYpH8UHA7G15KyMFEjHGyHyK5d9HCZ5bEx17Rt2ja",
+    "title": "Democrats and Republicans more ideologically divided than in the past",
+    "description": "Distribution of Democrats and Republicans on a 10-item scale of political values",
+    "source": "Pew Research Center (2015)",
+    "tags": {
+      "visible": [
+        "left-right",
+        "demographics",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "imageUrl": "https://ipfs.io/ipfs/QmeUoBMUg8E9B65hqGeLevJzcJgNMdbzrUN8GKsPtZFruM",
+    "title": "US consumer credit card debt tops $1 trillion",
+    "source": "Federal Reserve Bank of New York",
+    "tags": {
+      "visible": [
+        "usa",
+        "economy",
+        "taxes"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "imageUrl": "https://ipfs.io/ipfs/QmZtGDQ8xBcVbbzDNMjgvBt6jsGADppRCh8TkSxRKyzKYG",
+    "title": "Over the last weeks often have been bothered by the following problems",
+    "description": "Gen Z, Millennials, Gen X, Boomers\nFeeling nervous, anxious or on edge?\nFeeling down, depressed or hopeless?\nThoughts that you would be better of dead or hurting yourself?",
+    "source": "SocialSphere Inc.",
+    "tags": {
+      "visible": [
+        "mental-illness",
+        "youth"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "imageUrl": "https://ipfs.io/ipfs/QmXfk2iEk39NuFwGQnh8WjVACzwU4QU4qQea1MMJu5j4mw",
+    "title": "Nonmarital Birth Rates in the United States by race, 1940-2014",
+    "description": "Marriage and birth?",
+    "tags": {
+      "visible": [
+        "race",
+        "dating",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "imageUrl": "https://ipfs.io/ipfs/QmWEuqzKjiiNBDNUQ5mpmeus2WLnjSAnehmXitBkrhnqcy",
+    "title": "Mental Health Among U.S. Female Teens in 2021",
+    "source": "CDC",
+    "tags": {
+      "visible": [
+        "usa",
+        "mental-illness",
+        "youth",
+        "gender"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "imageUrl": "https://ipfs.io/ipfs/Qme2fHdqKbeULv2bG68c7QT6U8MAY3TFyrMgzb85nKF8ds",
+    "title": "% ever had mental health problem by political ideology and gender",
+    "tags": {
+      "visible": [
+        "mental-illness",
+        "left-right",
+        "gender"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "imageUrl": "https://ipfs.io/ipfs/QmNyB1iYZxA7kzYdct5Ti3sj17qHV2VbkRpYAc7xiWR9gZ",
+    "title": "Young male virginity on the rise",
+    "description": "Share of men under age 30 who report zero female sex partners since they turned 18",
+    "source": "General Social Survey, Washington Post",
+    "tags": {
+      "visible": [
+        "dating",
+        "youth",
+        "gender"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "imageUrl": "https://ipfs.io/ipfs/QmdYetnBbwcBzt1VAdV7wGe1yHp1XyoFx7qToPPjnEwK7W",
+    "title": "Percentage of men, no sex since age 18, heterosexual men 18-30, by age group",
+    "source": "GSS 2021",
+    "tags": {
+      "visible": [
+        "dating",
+        "youth",
+        "gender"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "imageUrl": "https://ipfs.io/ipfs/QmS6mP8vgt1DTZhp3xF1QLzr3CHSsNiomYaWArLxKyJkBh",
+    "title": "CALIFORNIA State of Student Debt",
+    "description": "average student debt balance\nper borrower in California",
+    "source": "SBPC's analysis of data from the Federal Reserve Bank",
+    "tags": {
+      "visible": [
+        "economy",
+        "youth",
+        "college",
+        "education",
+        "california"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "imageUrl": "https://ipfs.io/ipfs/QmfPDPDXpe9amwsQTegnHda1HS3SSbsFdA1f2rJrUHPagw",
+    "title": "Gen Z is Lonely",
+    "description": "Percent of US adults who are lonely shown as demographics",
+    "tags": {
+      "visible": [
+        "youth",
+        "mental-illness",
+        "demographics"
+      ],
+      "hidden": [
+        "loneliness",
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "imageUrl": "https://ipfs.io/ipfs/QmRJ2uvj8ahd1roswsVf2ma6a7CrY3KRLeE4a4jgpDdaxs",
+    "title": "Male attractiveness level females will \"like\" vs. female attractiveness",
+    "description": "Male and female advantage on online dating apps",
+    "source": "OKCupid Analysis",
+    "tags": {
+      "visible": [
+        "dating",
+        "youth",
+        "gender"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "imageUrl": "https://ipfs.io/ipfs/QmR9rVrRVbQNNspi4SzCNnG1ziou9hJL9tEjEWiA2jhqq7",
+    "title": "Income Gini coefficient for 162 nations in the world including Tinder",
+    "tags": {
+      "visible": [
+        "dating",
+        "youth",
+        "gender",
+        "economy"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "imageUrl": "https://ipfs.io/ipfs/QmZ7GomFGky6uW8ZkDVseE55ysfwcHSTbbQPtCRaDJHgim",
+    "title": "Nearly two-thirds of Americans report that they do live paycheck to paycheck",
+    "source": "The Hill (meta-citing)",
+    "tags": {
+      "visible": [
+        "economy",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
