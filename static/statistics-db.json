@@ -17,5 +17,129 @@
         "environmentalism"
       ]
     }
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://ipfs.io/ipfs/QmVoUdGzZKtM5A1LnJtEwAYMVC373q1R8avKZXapz7FhMy",
+    "title": "Adult Milestones",
+    "description": "Share of US-30 year old who...",
+    "source": "John Bums Research and Consulting tabulations of US Census Bureau Current Population Survey Annual Social and Economic Supplement vla IPUMS-USA",
+    "tags": {
+      "visible": [
+        "youth",
+        "economy",
+        "homes"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://ipfs.io/ipfs/QmfWLhvYczJiaPvZ7asGEpoaSVizEDJmWXTNHFtqQwD57P",
+    "title": "Deportation number by US president",
+    "description": "Clinton, Bush, Obama, Trump deportation numbers",
+    "source": "AlecLace X",
+    "sourceUrl": "https://x.com/AlecLace/status/1913635877340725666/photo/1",
+    "tags": {
+      "visible": [
+        "immigration",
+        "usa",
+        "trump",
+        "remigration"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://ipfs.io/ipfs/QmYNsDSDh9LuJ1m4nYoNBdNznTj3VzzSXtQVMs5GgtVaQ7",
+    "title": "How racial groups rate each other",
+    "description": "Mean ratings of Whites\nMean ratings of Blacks\nMean ratings of Hispanics\nMean ratings of Asians",
+    "source": "American National Election Studies. 2021. ANES 2020 Time Series Study",
+    "tags": {
+      "visible": [
+        "race",
+        "whites",
+        "blacks",
+        "hispanics",
+        "asians"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://ipfs.io/ipfs/QmeqtafvDMPG5nMZwNVTNn8G2KpewJ3U4TR5RM77B3wx3g",
+    "title": "Mean In-Group Bias by Race/Ethnicity",
+    "description": "Scores denote mean differences in warmth between in-group and out-group feeling thermometers (0-100 scale)",
+    "source": "ANES 2018 Pilot Survey",
+    "tags": {
+      "visible": [
+        "race"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://ipfs.io/ipfs/QmXSYKsyofSuhA3RJvK5zkDPL6e7YUVtBUu7w2ApqqzGSG",
+    "title": "Has a doctor or Other healthcare provider EVER told you that you have a mental health condition?",
+    "description": "Percent Yes",
+    "source": "Pew American Trends Panel: Wave 64 (March 19-24.2020)",
+    "tags": {
+      "visible": [
+        "mental-illness",
+        "left-right",
+        "therapy"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://ipfs.io/ipfs/QmZQptsXCTcPAPnctt8AF5gjnNPgVi9QtEr5mJp2n69gTb",
+    "title": "Religious Divide on Campus over Diversity and Inclusion vs. Free Speech",
+    "description": "Percent of college students who say x is more important",
+    "tags": {
+      "visible": [
+        "free-speech",
+        "religion",
+        "dei"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://ipfs.io/ipfs/QmV8wNYQwxhR4VouF1dsxmWRSU9KCz4vj5kE8Hr4zkHrb9",
+    "title": "Race as factor in college admissions by race",
+    "description": "Black, Hispanic and Asian American adults more likely than White adults to say race or ethnicity, legacy, first-generation status should be factors in college admissions",
+    "source": "Survey of US- adults conducted March 7-13, 2022- PEW RESEARCH CENTER",
+    "tags": {
+      "visible": [
+        "race",
+        "college",
+        "dei"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
   }
 ]
