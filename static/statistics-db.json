@@ -1208,5 +1208,21 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 71,
+    "imageUrl": "https://ipfs.io/ipfs/QmPBzxxkCxpsQXtPrxZLZZ8QuDYzHniCAzKqAoNhL6KKfT",
+    "title": "The Effective Rule of Law Propels Prosperity",
+    "description": "Property Rights Score, Freedom from Corruption Score & Rule of Law Score\nand\nGDP per Capita (PPP)",
+    "source": "See on image",
+    "tags": {
+      "visible": [
+        "economy",
+        "law-order"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
