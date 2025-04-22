@@ -1,14 +1,391 @@
 [
-{
-    "id": 0,
-    "imageUrl": "/favicon.png",
-    "title": "CO2 Emissions",
-    "description": "A visualization",
-    "source": "World Bank",
-    "sourceUrl": "https://data.worldbank.org/",
+  {
+    "id": 1,
+    "imageUrl": "https://ipfs.io/ipfs/QmXiyJ3ttJF56KVN7gwJC8bCvhuwoe139DwNs654h8mbYi",
+    "title": "Ideological differences in the expanse of the moral circle",
+    "description": "Heatmaps indicating highest moral allocation by ideology, Study 3a. Source data are provided as a Source Data file. Note. The highest value on the heatmap\nscale is 20 units for liberals, and 12 units for conservatives. Moral Circle rings, from inner to outer, are described as follows: (1) all of your immediate family,\n(2) all ofyour extended family, (3) all ofyour closest friends, (4) all of your friends (including distant ones), (5) all ofyour acquaintances, (6) all people you\nhave ever met, (7) all people in your country, (8) all people on your continent, (9) all people on all continents, (10) all mammals, (11) all amphibians, reptiles,\nmammals, fish, and birds, (12) all animals on earth including paramecia and amoebae, (13) all animals in the universe, including alien lifeforms, (14) all living\nthings in the universe including plants and trees, (15) all natural things in the universe including inert entities such as rocks, (16) all things in existence",
+    "source": "Nature 2019",
+    "sourceUrl": "https://www.nature.com/articles/s41467-019-12227-0",
     "tags": {
-      "visible": ["climate", "environment", "emissions", "health"],
-      "hidden": ["carbon dioxide"]
+      "visible": [
+        "morality",
+        "left-right",
+        "family"
+      ],
+      "hidden": [
+        "english",
+        "environmentalism"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://ipfs.io/ipfs/QmVoUdGzZKtM5A1LnJtEwAYMVC373q1R8avKZXapz7FhMy",
+    "title": "Adult Milestones",
+    "description": "Share of US-30 year old who...",
+    "source": "John Bums Research and Consulting tabulations of US Census Bureau Current Population Survey Annual Social and Economic Supplement vla IPUMS-USA",
+    "tags": {
+      "visible": [
+        "youth",
+        "economy",
+        "homes"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://ipfs.io/ipfs/QmfWLhvYczJiaPvZ7asGEpoaSVizEDJmWXTNHFtqQwD57P",
+    "title": "Deportation number by US president",
+    "description": "Clinton, Bush, Obama, Trump deportation numbers",
+    "source": "AlecLace X",
+    "sourceUrl": "https://x.com/AlecLace/status/1913635877340725666/photo/1",
+    "tags": {
+      "visible": [
+        "immigration",
+        "usa",
+        "trump",
+        "remigration"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://ipfs.io/ipfs/QmYNsDSDh9LuJ1m4nYoNBdNznTj3VzzSXtQVMs5GgtVaQ7",
+    "title": "How racial groups rate each other",
+    "description": "Mean ratings of Whites\nMean ratings of Blacks\nMean ratings of Hispanics\nMean ratings of Asians",
+    "source": "American National Election Studies. 2021. ANES 2020 Time Series Study",
+    "tags": {
+      "visible": [
+        "race",
+        "whites",
+        "blacks",
+        "hispanics",
+        "asians"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://ipfs.io/ipfs/QmeqtafvDMPG5nMZwNVTNn8G2KpewJ3U4TR5RM77B3wx3g",
+    "title": "Mean In-Group Bias by Race/Ethnicity",
+    "description": "Scores denote mean differences in warmth between in-group and out-group feeling thermometers (0-100 scale)",
+    "source": "ANES 2018 Pilot Survey",
+    "tags": {
+      "visible": [
+        "race"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://ipfs.io/ipfs/QmXSYKsyofSuhA3RJvK5zkDPL6e7YUVtBUu7w2ApqqzGSG",
+    "title": "Has a doctor or Other healthcare provider EVER told you that you have a mental health condition?",
+    "description": "Percent Yes",
+    "source": "Pew American Trends Panel: Wave 64 (March 19-24.2020)",
+    "tags": {
+      "visible": [
+        "mental-illness",
+        "left-right",
+        "therapy"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://ipfs.io/ipfs/QmZQptsXCTcPAPnctt8AF5gjnNPgVi9QtEr5mJp2n69gTb",
+    "title": "Religious Divide on Campus over Diversity and Inclusion vs. Free Speech",
+    "description": "Percent of college students who say x is more important",
+    "tags": {
+      "visible": [
+        "free-speech",
+        "religion",
+        "dei"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://ipfs.io/ipfs/QmV8wNYQwxhR4VouF1dsxmWRSU9KCz4vj5kE8Hr4zkHrb9",
+    "title": "Race as factor in college admissions by race",
+    "description": "Black, Hispanic and Asian American adults more likely than White adults to say race or ethnicity, legacy, first-generation status should be factors in college admissions",
+    "source": "Survey of US- adults conducted March 7-13, 2022- PEW RESEARCH CENTER",
+    "tags": {
+      "visible": [
+        "race",
+        "college",
+        "dei"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://ipfs.io/ipfs/QmPC2HKzqH4nUCnwDbGizyM6gSKpLADjnbEwb9C2BdSF4j",
+    "title": "Average net contribution by immigration origin",
+    "description": "Denmark, average net contribution to public finances, by age, 2018",
+    "source": "Danish Finance Ministry",
+    "tags": {
+      "visible": [
+        "immigration",
+        "economy",
+        "taxes"
+      ],
+      "hidden": [
+        "english",
+        "denmark"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://ipfs.io/ipfs/QmcFJNwVHHis7FJ36nriFEsAiN9dfCTH7nta2ATEjRn5fs",
+    "title": "World population by region",
+    "description": "Projected population to 2100 is based on the UNIS medium population scenario.",
+    "source": "Gapminder (v6). HYDE (v3.2). UN (2019)",
+    "tags": {
+      "visible": [
+        "demographics"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://ipfs.io/ipfs/Qmf4CnEaEXYmhtraGLidayX8DMTxx8ESJqb6BM1dnAMqAV",
+    "title": "Per Capita Lifetime Budgetary Impact of Whites, Blacks & Hispanics",
+    "description": "White, Hispanic, Black Budgetary Impact",
+    "source": "See on image",
+    "tags": {
+      "visible": [
+        "race",
+        "taxes",
+        "economy"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    },
+    "links": [
+      {
+        "type": "related",
+        "label": "Average net contribution by immigration origin",
+        "url": "https://stats-right.com/statistics/9/average-net-contribution-by-immigration-origin/"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "imageUrl": "https://ipfs.io/ipfs/QmZU5veBE9EeQidLWHL1o5X821i2T7RarGHzMGGa4BQS5r",
+    "title": "Time spent not working while on the job",
+    "description": "by race and gender",
+    "source": "Racial/ethnic differences in non-work at work, Daniel Hamermesh, Katie Genadek and Michael Burda, NBER, January 2017",
+    "tags": {
+      "visible": [
+        "race",
+        "economy",
+        "gender"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "imageUrl": "https://ipfs.io/ipfs/QmeJwu2Juh8mYLenQd83Ho8fXivgH8hxm4ojrU6SB5BAm1",
+    "title": "Religiöses Bekenntnis an Schulen Wien",
+    "description": "Schülerinnen und Schüler an Wiener Volks- und Mittelschulen 2024/25, Auswahl",
+    "source": "Stadt Wien",
+    "tags": {
+      "visible": [
+        "religion",
+        "islam",
+        "youth",
+        "demographics",
+        "immigration"
+      ],
+      "hidden": [
+        "german",
+        "austria",
+        "vienna"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "imageUrl": "https://ipfs.io/ipfs/QmZ2ztzgBy78gR4Q5rajMK6m8yG3ZfSfiKZ2JP5HZN7dLH",
+    "title": "Tatverdächtige 2024",
+    "description": "Täter pro 100.000 nach Nationalität",
+    "source": "BKA/ Polizeiliche Kriminalstatistik 2024, Tatverdächtigenbelastung der deutschen und nichtdeutschen Wohnbevölkerung ab 8 Jahren nach Alter und Geschlecht",
+    "tags": {
+      "visible": [
+        "immigration",
+        "crime",
+        "gender"
+      ],
+      "hidden": [
+        "germany",
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "imageUrl": "https://ipfs.io/ipfs/QmNQYjqrxGAR4KVjAto4jPueZmGBns3krAgLE8AmaGQsGq",
+    "title": "Mitglieder im Verwaltungsrat des ZDF (Öffentlich-Rechtlicher-Rundfunk)",
+    "description": "4 Ministerpräsidenten\n4 verdiente\nParteimitglieder\nJe ein Vorstandsmitglied\nder parteinahen Stiftung",
+    "tags": {
+      "visible": [
+        "germany",
+        "politicians",
+        "free-speech",
+        "public-broadcasting"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "imageUrl": "https://ipfs.io/ipfs/QmYXnavQti4xnqn7SACUxRmF2f6C2k5dTHnvEhG9HfJ3QF",
+    "title": "U.S. Accelerated Warming Since 1895: It's Non-Existent",
+    "description": "NOAA/NCDC repotted monthly temperatures & CO2 levels",
+    "source": "See image",
+    "tags": {
+      "visible": [
+        "climate-change"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "imageUrl": "https://ipfs.io/ipfs/Qmaa8hS9hFLPRz2DT47xKQxuMnjF2kiWVJsx25wiacdaEE",
+    "title": "How Carbon Emission Changed Since 2000",
+    "description": "Carbon Emissions by country",
+    "source": "Global Carbon Budget 2018",
+    "tags": {
+      "visible": [
+        "climate-change"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "imageUrl": "https://ipfs.io/ipfs/QmPYdKy8zuUhwLLcBwTWG54D6iX6rhJTYtQLZgk1LpfBzL",
+    "title": "Percentage of OnlyFans creators in the US",
+    "source": "Statista, Washingtom Examiner",
+    "tags": {
+      "visible": [
+        "youth",
+        "dating",
+        "usa",
+        "gender"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "imageUrl": "https://ipfs.io/ipfs/QmYSV1gQcA5tNnRT5XcDvHgzh5eRDzkKgiyonERDppikMB",
+    "title": "Homicide Deaths Per 100,000 Population",
+    "description": "2010-12 average, high-Human Development Index countries",
+    "tags": {
+      "visible": [
+        "race",
+        "crime"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "imageUrl": "https://ipfs.io/ipfs/QmT3mDYGZTCj5PfBbK4291ag6EzorknMR3wXZV5wL3Gvbv",
+    "title": "Murderers per 100,000 by race and gender",
+    "description": "White\nMale\nMurderers\nper 100,000 per 100,000 per 100,000 per 100,000\nper\nHispanic\nMale\nMurderers\nper\nBlack Male\nMurderers\nBlack\nFemale\nMurderers\nHispanic\nFemale\nMurderers\nWhite\nFemale\nMurderers",
+    "source": "FBI Nibers 2021",
+    "tags": {
+      "visible": [
+        "race",
+        "crime",
+        "gender",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "imageUrl": "https://ipfs.io/ipfs/QmbcrgvdTJhvoeAkT3pBhTSY4qi7gCdUkgUDMHLJaMsNZw",
+    "title": "Wahlberechtigte in Altersgruppen in Prozent",
+    "description": "Bundestagswahl 2025",
+    "source": "Infratest dimap",
+    "tags": {
+      "visible": [
+        "youth",
+        "demographics",
+        "politicians",
+        "germany"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "imageUrl": "https://ipfs.io/ipfs/QmY3MdmqsP1qCyNys4nntsivP3jj5Lrm9KBrPJ1jKEZfnD",
+    "title": "Voters' opinions of...",
+    "description": "Donald Trump\nJD Vance\nElon Musk\nDOGE\nVolodymyr Zelenskyy\nDEI\nDemocratic Party",
+    "tags": {
+      "visible": [
+        "gender",
+        "education",
+        "usa",
+        "marriage"
+      ],
+      "hidden": [
+        "english"
+      ]
     }
   }
 ]
