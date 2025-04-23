@@ -1,6 +1,7 @@
 <script lang="ts">
   import { getSuggestedSearchTerms } from '../utils/searchUtils';
   import type { Statistic } from '../stores/statisticsStore';
+  import { appStateStore } from '../stores/appStateStore';
   
   // Props
   let { 
@@ -32,6 +33,9 @@
     
     // Enable real-time search as you type
     onSearch(inputValue);
+    
+    // Sync with app state store
+    appStateStore.setSearchQuery(inputValue);
   }
   
   function handleKeyDown(event: KeyboardEvent) {
@@ -80,17 +84,28 @@
     showSuggestions = false;
     onTagSelect(suggestion);
     inputElement.focus();
+    
+    // Sync with app state if it's a tag
+    if (allTags.includes(suggestion)) {
+      appStateStore.addTag(suggestion);
+    }
   }
   
   function submitSearch() {
     showSuggestions = false;
     onSearch(inputValue);
+    
+    // Sync with app state store
+    appStateStore.setSearchQuery(inputValue);
   }
   
   function clearSearch() {
     inputValue = '';
     onSearch('');
     inputElement.focus();
+    
+    // Sync with app state store
+    appStateStore.setSearchQuery('');
   }
   
   // Update inputValue when searchQuery prop changes

@@ -2,6 +2,9 @@
   import { createEventDispatcher } from 'svelte';
   import StatisticCard from './StatisticCard.svelte';
   import type { Statistic } from '../stores/statisticsStore';
+  import { appStateStore } from '../stores/appStateStore';
+  import { getStatisticUrl } from '../utils/urlUtils';
+  import { browser } from '$app/environment';
   
   let { 
     statistics = [],
@@ -10,12 +13,21 @@
     gap = 4
   } = $props();
   
-  // Create event dispatcher
+  // Create event dispatcher (keeping for compatibility)
   const dispatch = createEventDispatcher<{
     statisticClick: Statistic
   }>();
   
   function handleStatisticClick(statistic: Statistic) {
+    // Save the statistic ID before navigating away
+    appStateStore.setLastClickedStatistic(statistic.id);
+    
+    // Save current scroll position
+    if (browser) {
+      appStateStore.saveScrollPosition(window.scrollY);
+    }
+    
+    // Still dispatch the event for compatibility
     dispatch('statisticClick', statistic);
   }
   
@@ -48,17 +60,14 @@
 {:else}
 	<div class="statistics-gallery grid {gridClasses} {gapClass}">
 		{#each statistics as statistic, i (statistic.id)}
-			<div 
-        class="statistic-item transition-all duration-300 ease-in-out cursor-pointer p-2"
-        on:click={() => handleStatisticClick(statistic)}
-        on:keydown={(e) => e.key === 'Enter' && handleStatisticClick(statistic)}
-        tabindex="0"
-        role="button"
-        aria-label="View statistic details"
+			<a 
+        href={getStatisticUrl(statistic.id, statistic.title)}
+        class="statistic-item transition-all duration-300 ease-in-out cursor-pointer p-2 block"
+        on:click|preventDefault={() => handleStatisticClick(statistic)}
         style="--index: {i+1};"
       >
 				<StatisticCard {statistic} {searchQuery} />
-			</div>
+			</a>
 		{/each}
 	</div>
 {/if}
@@ -70,6 +79,8 @@
   
   .statistic-item {
     height: 100%;
+    text-decoration: none;
+    color: inherit;
   }
   
   .statistic-item:hover {

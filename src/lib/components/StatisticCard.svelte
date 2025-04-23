@@ -23,7 +23,7 @@
   let showFooter = $derived(hasTags || description || statistic.source);
 </script>
 
-<div class="statistic-card rs-panel flex flex-col h-full transition-all duration-300 hover:shadow-lg transform hover:-translate-y-2">
+<div class="statistic-card rs-panel flex flex-col h-full transition-all duration-300 hover:shadow-lg transform hover:-translate-y-2" data-statistic-id={statistic.id}>
   <div class="relative h-full">
     <div class="overflow-hidden h-full">
       <img 

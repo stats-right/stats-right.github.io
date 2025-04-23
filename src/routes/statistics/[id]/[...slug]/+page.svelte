@@ -1,13 +1,9 @@
 <script lang="ts">
-  import { onMount } from 'svelte';
-  import { page } from '$app/stores';
-  import { statisticsStore } from '$lib/stores/statisticsStore';
-  import { goto } from '$app/navigation';
   import type { Statistic } from '$lib/stores/statisticsStore';
   import StatisticDetail from '$lib/components/StatisticDetail.svelte';
   
   export let data;
-  let currentStatistic: Statistic | undefined = data.statistic;
+  let currentStatistic: Statistic | undefined = data.statistic as Statistic | undefined;
   let isLoading = false;
 </script>
 

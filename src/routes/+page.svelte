@@ -2,6 +2,7 @@
   import { onMount } from 'svelte';
   import { page } from '$app/stores';
   import { goto } from '$app/navigation';
+  import { browser } from '$app/environment';
   import StatisticsGrid from '$lib/components/StatisticsGrid.svelte';
   import SearchBar from '$lib/components/SearchBar.svelte';
   import StatisticDetail from '$lib/components/StatisticDetail.svelte';
@@ -12,6 +13,7 @@
     visibleTags,
     type Statistic
   } from '$lib/stores/statisticsStore';
+  import { appStateStore } from '$lib/stores/appStateStore';
   import { getRandomStatistics } from '$lib/utils/filterUtils';
   import { getStatisticUrl } from '$lib/utils/urlUtils';
     
@@ -23,9 +25,37 @@
   // Number of random statistics to show on the home page
   const RANDOM_STATS_COUNT = 120;
   
+  // Track if we've already generated random statistics for this session
+  let randomStatsGenerated = false;
+  // Store the current random statistics in memory
+  let currentRandomStats: Statistic[] = $state([]);
+  
   onMount(async () => {
     // Initialize the store with pre-loaded data from the server
     await statisticsStore.initializeStore();
+    
+    // Restore state from appStateStore (in-memory only)
+    if ($appStateStore) {
+      // Restore search query and tags
+      searchQuery = $appStateStore.searchQuery;
+      selectedTags = [...$appStateStore.selectedTags];
+      
+      // Apply filters from restored state
+      if (searchQuery) {
+        statisticsStore.setSearchQuery(searchQuery);
+      }
+      
+      if (selectedTags.length > 0) {
+        selectedTags.forEach(tag => statisticsStore.addTag(tag));
+      }
+      
+      // Load saved random statistics if available
+      if ($appStateStore.randomStatistics && $appStateStore.randomStatistics.length > 0) {
+        currentRandomStats = [...$appStateStore.randomStatistics];
+        randomStatsGenerated = true;
+      }
+    }
+    
     isLoading = false;
     
     // Check for statistic ID in the URL
@@ -39,12 +69,33 @@
         selectedStatistic = stat;
       }
     }
+    
+    // Restore scroll position with a small delay to ensure content is loaded
+    if (browser && $appStateStore.scrollPosition > 0) {
+      setTimeout(() => {
+        window.scrollTo({
+          top: $appStateStore.scrollPosition,
+          behavior: 'auto'
+        });
+        
+        // If there's a last clicked statistic, scroll to it if visible
+        if ($appStateStore.lastClickedStatisticId !== null) {
+          const statElement = document.querySelector(`[data-statistic-id="${$appStateStore.lastClickedStatisticId}"]`);
+          if (statElement) {
+            statElement.scrollIntoView({ behavior: 'auto', block: 'center' });
+          }
+        }
+      }, 100);
+    }
   });
   
   // Handle search action
   function handleSearch(query: string) {
     searchQuery = query;
     statisticsStore.setSearchQuery(query);
+    
+    // Sync with app state store
+    appStateStore.setSearchQuery(query);
   }
   
   // Handle tag selection
@@ -52,6 +103,9 @@
     if (!selectedTags.includes(tag)) {
       selectedTags = [...selectedTags, tag];
       statisticsStore.addTag(tag);
+      
+      // Sync with app state store
+      appStateStore.addTag(tag);
     }
   }
   
@@ -59,12 +113,18 @@
   function handleTagRemove(tag: string) {
     selectedTags = selectedTags.filter(t => t !== tag);
     statisticsStore.removeTag(tag);
+    
+    // Sync with app state store
+    appStateStore.removeTag(tag);
   }
   
   // Clear all selected tags
   function clearAllTags() {
     selectedTags = [];
     statisticsStore.clearTags();
+    
+    // Sync with app state store
+    appStateStore.clearTags();
   }
   
   // Handle statistic selection
@@ -86,7 +146,30 @@
     if (filtered.length === $statisticsStore.allStatistics.length && 
         !searchQuery && 
         selectedTags.length === 0) {
-      return getRandomStatistics(filtered, RANDOM_STATS_COUNT);
+      
+      // If we already have random statistics, use them
+      if (currentRandomStats.length > 0 && randomStatsGenerated) {
+        return currentRandomStats;
+      }
+      
+      // Generate new random statistics - but not in the derived expression
+      if (!randomStatsGenerated) {
+        // Using setTimeout to avoid state mutation in derived
+        setTimeout(() => {
+          // Generate random stats outside of the derived expression
+          const randomStats = getRandomStatistics(filtered, RANDOM_STATS_COUNT);
+          currentRandomStats = randomStats;
+          randomStatsGenerated = true;
+          
+          // Save to app state
+          appStateStore.setRandomStatistics(randomStats);
+        }, 0);
+        
+        // Return filtered (unsorted) for the first render, will be updated immediately
+        return filtered.slice(0, RANDOM_STATS_COUNT);
+      }
+      
+      return currentRandomStats;
     }
     
     // Otherwise show the filtered results
@@ -95,6 +178,22 @@
 
   const PAGE_TITLE = "Stats Right: Statistics of the New Right";
   const PAGE_DESC = "A searchable collection of statistics and graphs related to the New Right";
+
+  const popularTags = [
+	"economy",
+	"immigration",
+	"left-right",
+	"gender",
+	"race",
+	"dating",
+	"mental-illness",
+	"lgbtq",
+	"taxes",
+	"dei",
+	"free-speech",
+	"crime",
+	"usa"
+  ];
 </script>
 
 <svelte:head>
@@ -133,7 +232,7 @@
         <!-- Popular tags -->
         <div class="mt-4">
           <div class="flex flex-wrap gap-2 justify-center">
-            {#each $visibleTags.slice(0, 12) as tag}
+            {#each popularTags as tag}
               <button 
                 class="tag-chip"
                 class:selected={selectedTags.includes(tag)}
@@ -266,7 +365,6 @@
     padding: 0.25rem 0.75rem;
     font-weight: 600;
     transition: all 0.2s ease;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
   }
   
   :global(.tag-chip:hover) {
