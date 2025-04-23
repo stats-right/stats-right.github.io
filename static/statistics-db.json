@@ -387,5 +387,842 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 23,
+    "imageUrl": "https://ipfs.io/ipfs/QmTFUM7gqxxbAmXTzvQ1waB5CNNWjJbzkk4LLG9YRCmtxo",
+    "title": "Benefit claims per 1,000 by nationality in UK",
+    "source": "Centre for Migration Control",
+    "tags": {
+      "visible": [
+        "economy",
+        "immigration",
+        "taxes",
+        "welfare"
+      ],
+      "hidden": [
+        "english",
+        "uk"
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "imageUrl": "https://ipfs.io/ipfs/QmXiJM9U2AdUUa9nHygz7mrtncHQnkeiWyKWKM3D9HSM7p",
+    "title": "Which nationalities commit the most crime overall",
+    "description": "Conviction rate in England and Wales by nationality per 10,000 population, 2021-2023",
+    "source": "Freedom of information request by Centre for Migration Control",
+    "tags": {
+      "visible": [
+        "immigration",
+        "crime",
+        "uk"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "imageUrl": "https://ipfs.io/ipfs/QmchpFQEXNuWJPVt68wPHYEfSimZfkdmCY23TXQJ8wLgjF",
+    "title": "Canada population vs productivity gains",
+    "description": "Its recent population boom has not come with productivity gains\nIndex 2019 04=100",
+    "source": "OECD",
+    "tags": {
+      "visible": [
+        "immigration",
+        "economy"
+      ],
+      "hidden": [
+        "canada",
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "imageUrl": "https://ipfs.io/ipfs/Qmds54RVCiptdbA7XgUfDN9hWwzG7dsTLfaC5RBoL7pyG4",
+    "title": "Justice under the Belgian regime",
+    "description": "Sven Pichal and Dries Van Langenhove",
+    "source": "https://x.com/lporiginalg/status/1901106163791655345",
+    "sourceUrl": "https://x.com/lporiginalg/status/1901106163791655345",
+    "tags": {
+      "visible": [
+        "crime",
+        "left-right",
+        "judges",
+        "free-speech"
+      ],
+      "hidden": [
+        "belgium",
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "imageUrl": "https://ipfs.io/ipfs/QmXuqHs7PwN2K74hUNaryZrdmfZDTfVRmr6dVLzfoBx9Ht",
+    "title": "Net contribution of immigrants for the Netherlands",
+    "tags": {
+      "visible": [
+        "immigration",
+        "economy",
+        "welfare"
+      ],
+      "hidden": [
+        "netherlands",
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "imageUrl": "https://ipfs.io/ipfs/QmVcfjoGpqtsPS2uycwXX3oMMewiXCxsj5VfYwCrwMs8u7",
+    "title": "% of Incarcerated Black and White men vs. Their Parents Income Percentile",
+    "description": "Comment:\nAmerican blacks commit crimes at at least 3x the rate of whites, and the rare climbs as income climbs \n\nWhatever explains disproportionate black criminality, it can't just be socioeconomic status\n",
+    "tags": {
+      "visible": [
+        "race",
+        "crime",
+        "economy"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "imageUrl": "https://ipfs.io/ipfs/QmPt82XZYYBQDr12nAFFPZjYp7jpTLFd9gnkiirAAKBKqU",
+    "title": "Germany Main income source by country origin",
+    "description": "One in two Germans lives from paid work — impact of migration is ambiguous\nChart shows relative frequencies within groups by country of origin (first and second generation) for predominant household income source\n'Dependency on family members' includes children.\nNote that groups might differ in terms of mean age or length of Stay in Germany, as might generated tax revenue despite similar employment ratios.",
+    "source": "Statistisches Bundesamt (2024): Statistischer Bericht Mikrozensus",
+    "tags": {
+      "visible": [
+        "immigration",
+        "economy",
+        "welfare",
+        "demographics",
+        "germany"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "imageUrl": "https://ipfs.io/ipfs/QmWrV5jxAqyGPMaaK2jWrrKknoSCA2N4kZKBhAdgGLpVkZ",
+    "title": "Political gender gap with German parties",
+    "description": "Positive: Women more likely to vote for\nNegative: Men more likely to vote for",
+    "tags": {
+      "visible": [
+        "gender",
+        "politicians",
+        "left-right",
+        "germany"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "imageUrl": "https://ipfs.io/ipfs/QmYBLbrx8PhTQ25xCYDUiAKKj8EMeFQ7LAFAWooYuFSnKD",
+    "title": "Harvard Admission Rates by race and decile",
+    "source": "aei.org",
+    "tags": {
+      "visible": [
+        "college",
+        "usa",
+        "race",
+        "dei",
+        "education"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "imageUrl": "https://ipfs.io/ipfs/QmdqYpy7dDVAXyGErc7BBBYWicg7bA1xYYmKirRSsQ4o1W",
+    "title": "Has a doctor or healthcare provider EVER told you that you have a mental health condition?",
+    "source": "Pew (2020)",
+    "tags": {
+      "visible": [
+        "mental-illness",
+        "left-right",
+        "gender"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "imageUrl": "https://ipfs.io/ipfs/Qma16BzF1GNZfGCuGRtXHtitqrmSbttregGdx7RM5mgNBC",
+    "title": "Manche sehen in Trump eine Art Messias (Die Erlöserin)",
+    "description": "Trump und Kamala Harris Messias",
+    "source": "Süddeutsche Zeitung, Stern",
+    "tags": {
+      "visible": [
+        "trump",
+        "politicians",
+        "religion"
+      ],
+      "hidden": [
+        "german",
+        "germany"
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "imageUrl": "https://ipfs.io/ipfs/QmWc4FJx4PDxxRYig4TB4CR7M1xnd76CTzkStsEyZs6ngd",
+    "title": "35 Recessions in the U.S. Since 1854",
+    "description": "Recessions in the U.S. since 1854. Shaded periods indicate recession.",
+    "tags": {
+      "visible": [
+        "economy",
+        "usa",
+        "recession"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "imageUrl": "https://ipfs.io/ipfs/QmYGYwwQopn7P2tEBkSWqxAfNHeiTC2sDEpcEVyBt6J2J5",
+    "title": "LGBTQ+ Identity, by Generation, 2023",
+    "description": "Which of the following do you consider yourself to be? You can select as many as apply. Straight or\nheterosexual; Lesbian; Gay; Bisexual; Transgender",
+    "tags": {
+      "visible": [
+        "lgbtq",
+        "youth"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "imageUrl": "https://ipfs.io/ipfs/QmTTPE3GV1Pc1XC6E4ABKGtXqFwXBYadPKoqHxioFs4X6A",
+    "title": "Strafen für illegale Einreise (illegal immigration)",
+    "source": "Independent poster",
+    "tags": {
+      "visible": [
+        "immigration",
+        "illegal-immigation",
+        "welfare",
+        "crime"
+      ],
+      "hidden": [
+        "german",
+        "germany"
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "imageUrl": "https://ipfs.io/ipfs/QmUAd16KLt7ns18hXQGQN2ufguvmN1oQMYcrk3V2Duoi3z",
+    "title": "Senat des Bundesverfassungsgerichts",
+    "description": "Parteimitglieder im Bundesverfassungsgericht",
+    "tags": {
+      "visible": [
+        "politicians",
+        "corruption"
+      ],
+      "hidden": [
+        "german",
+        "germany"
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "imageUrl": "https://ipfs.io/ipfs/QmUqYmKku44KEkG7XA398Z7hX26VWT2kLKAsNoqBiBKEGj",
+    "title": "Germany's gay vote, by age",
+    "description": "Voting intention of users of Romeo, a gay, bisexual, transgender, queer, and non-binary\ndating app. All users in Germany were sent an in-app message inviting them to participate",
+    "source": "The Spectator, Romeo.com",
+    "tags": {
+      "visible": [
+        "lgbtq",
+        "immigration",
+        "politicians",
+        "left-right",
+        "germany"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "imageUrl": "https://ipfs.io/ipfs/QmUURaEPvcb9kcERF3TgkBfH6gWKeTgiRpoBSvKNnTSkFq",
+    "title": "The partisan gap between young men and women almost doubled in the past 25 years",
+    "description": "Political ideology of US 18 to 29 year olds, by gender",
+    "source": "Gallup Poll Social Series data",
+    "tags": {
+      "visible": [
+        "gender",
+        "left-right"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "imageUrl": "https://ipfs.io/ipfs/Qmbts6dc93dCYCcsguvMe8xGxPBwKF8kyY9fjr6u6if3yw",
+    "title": "Hamburg city districts With many migrants tend to vote AfD rather than Greens",
+    "description": "Neighborhoods with a high share of migrants tended to vote for AfD in Germany.\n",
+    "source": "Statistikamt Nord (2025)",
+    "tags": {
+      "visible": [
+        "politicians",
+        "immigration"
+      ],
+      "hidden": [
+        "german",
+        "germany"
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "imageUrl": "https://ipfs.io/ipfs/QmPJJvFiaQGjSeGrsCqXd97iryDEje7ohojooc1iJKhgAj",
+    "title": "Country of origin of Norwegian crimes per 1000",
+    "tags": {
+      "visible": [
+        "crime",
+        "immigration"
+      ],
+      "hidden": [
+        "norwegian",
+        "norway"
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "imageUrl": "https://ipfs.io/ipfs/QmdkbCTQB98KjDFs7v5tQwkQ7wT28iwAbJHpydYyfM8W8C",
+    "title": "Finland sexual crimes country of origin per 10,000",
+    "description": "Sexual offenses by people born in Finland and immigrants",
+    "source": "Poliisi, Tilastokeskus",
+    "tags": {
+      "visible": [
+        "crime",
+        "immigration",
+        "finland",
+        "rape"
+      ],
+      "hidden": [
+        "finnish"
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "imageUrl": "https://ipfs.io/ipfs/QmVK1HpjnKmqZtb9F4zZEVQken2ywVp6smTPDS2sTLnXCo",
+    "title": "The most significant genetic differences between human races are neurological, impacting thoughts, feelings, and behaviors",
+    "source": "Dong-Dong Wu and Ya-Ping Zhang (2011)",
+    "tags": {
+      "visible": [
+        "race",
+        "science",
+        "genetics"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "imageUrl": "https://ipfs.io/ipfs/QmYEKWgATfn9bjZqPyBbiXQ3zFYiWACzubiR1bStRAmp3g",
+    "title": "So viel Geld geben die Ministerien den Stiftungen und NGOs",
+    "description": "in Millionen Euro",
+    "source": "Bundesministerien, WeLT",
+    "tags": {
+      "visible": [
+        "economy",
+        "politicians",
+        "corruptions",
+        "ngos"
+      ],
+      "hidden": [
+        "german",
+        "germany"
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "imageUrl": "https://ipfs.io/ipfs/QmTmcoKKUao8UyTNdLGvt23nyqPsPUGwMNQnJuR7bKYnby",
+    "title": "Number of police recorded rape offences in England and Wales from 2002/03 to 2022/23",
+    "source": "Statista 2024",
+    "tags": {
+      "visible": [
+        "crime",
+        "rape",
+        "uk",
+        "immigration"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "imageUrl": "https://ipfs.io/ipfs/QmcdBWWi2uRwVK31syxztVAJw5cLPFUK2gHyDnB1mpbQwT",
+    "title": "In Italy, foreigners account for 30% of homicide and violence suspects, and 40% of rape suspects",
+    "source": "IStat.it Autori e vittime dei delitti denunciati dalle forze di polizia all' autorita giudiziaria (crime)",
+    "tags": {
+      "visible": [
+        "crime",
+        "rape",
+        "immigration"
+      ],
+      "hidden": [
+        "english",
+        "italy"
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "imageUrl": "https://ipfs.io/ipfs/QmVJNvUeDWnhXuyDFb6Bq6G3Fn35yAKrxK7ZkqbGES6Ku1",
+    "title": "MIGRATIONSHINTERGRUND DER UNTER 16-JÄHRIGEN IN %",
+    "description": "Jugendliche Migranten zunehmend in der Mehrheit!",
+    "source": "demografie-europa.eu",
+    "sourceUrl": "https://demografie-europa.eu",
+    "tags": {
+      "visible": [
+        "immigration",
+        "demographics",
+        "youth",
+        "germany"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "imageUrl": "https://ipfs.io/ipfs/QmPLsPWLUpLCXEhhBcLcucGkRsbfHBdYiETEizH5DvKYxJ",
+    "title": "Mentions of Political Extremism in English Wikipedia",
+    "description": "far-left and far-right",
+    "source": "English Wikipedia Dump",
+    "tags": {
+      "visible": [
+        "left-right",
+        "free-speech",
+        "media-bias"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "imageUrl": "https://ipfs.io/ipfs/QmQQZxtJfCSTQhYUbFnhootrHcc5ewnfTraQRGNnNZ8K4V",
+    "title": "Wahlverhalten Journalisten 2024",
+    "source": "TU Dortmund",
+    "tags": {
+      "visible": [
+        "politicians",
+        "media-bias",
+        "journalists",
+        "germany"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "imageUrl": "https://ipfs.io/ipfs/QmcamuWTTq9py6MZgXA3kg3h6GZ7Vqjz94zKcMPXxv5YBN",
+    "title": "Percent of us 12th Graders who have ever dated",
+    "tags": {
+      "visible": [
+        "usa",
+        "education",
+        "youth",
+        "dating"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "imageUrl": "https://ipfs.io/ipfs/Qme32buY4yZRFTyLEmAygf8Y1wQKwaff9cyQCQujLthu85",
+    "title": "Brain Sizes by Race and Ethnicity in a Sample of American 10-Year-Olds",
+    "description": "Data Collected in 2017 and Adjusted for Age and Sex",
+    "source": "Adolescent Brain Cognitive Development Study",
+    "tags": {
+      "visible": [
+        "race",
+        "genetics",
+        "science"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "imageUrl": "https://ipfs.io/ipfs/QmetvqYpH8UHA7G15KyMFEjHGyHyK5d9HCZ5bEx17Rt2ja",
+    "title": "Democrats and Republicans more ideologically divided than in the past",
+    "description": "Distribution of Democrats and Republicans on a 10-item scale of political values",
+    "source": "Pew Research Center (2015)",
+    "tags": {
+      "visible": [
+        "left-right",
+        "demographics",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "imageUrl": "https://ipfs.io/ipfs/QmeUoBMUg8E9B65hqGeLevJzcJgNMdbzrUN8GKsPtZFruM",
+    "title": "US consumer credit card debt tops $1 trillion",
+    "source": "Federal Reserve Bank of New York",
+    "tags": {
+      "visible": [
+        "usa",
+        "economy",
+        "taxes"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "imageUrl": "https://ipfs.io/ipfs/QmZtGDQ8xBcVbbzDNMjgvBt6jsGADppRCh8TkSxRKyzKYG",
+    "title": "Over the last weeks often have been bothered by the following problems",
+    "description": "Gen Z, Millennials, Gen X, Boomers\nFeeling nervous, anxious or on edge?\nFeeling down, depressed or hopeless?\nThoughts that you would be better of dead or hurting yourself?",
+    "source": "SocialSphere Inc.",
+    "tags": {
+      "visible": [
+        "mental-illness",
+        "youth"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "imageUrl": "https://ipfs.io/ipfs/QmXfk2iEk39NuFwGQnh8WjVACzwU4QU4qQea1MMJu5j4mw",
+    "title": "Nonmarital Birth Rates in the United States by race, 1940-2014",
+    "description": "Marriage and birth?",
+    "tags": {
+      "visible": [
+        "race",
+        "dating",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "imageUrl": "https://ipfs.io/ipfs/QmWEuqzKjiiNBDNUQ5mpmeus2WLnjSAnehmXitBkrhnqcy",
+    "title": "Mental Health Among U.S. Female Teens in 2021",
+    "source": "CDC",
+    "tags": {
+      "visible": [
+        "usa",
+        "mental-illness",
+        "youth",
+        "gender"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "imageUrl": "https://ipfs.io/ipfs/Qme2fHdqKbeULv2bG68c7QT6U8MAY3TFyrMgzb85nKF8ds",
+    "title": "% ever had mental health problem by political ideology and gender",
+    "tags": {
+      "visible": [
+        "mental-illness",
+        "left-right",
+        "gender"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "imageUrl": "https://ipfs.io/ipfs/QmNyB1iYZxA7kzYdct5Ti3sj17qHV2VbkRpYAc7xiWR9gZ",
+    "title": "Young male virginity on the rise",
+    "description": "Share of men under age 30 who report zero female sex partners since they turned 18",
+    "source": "General Social Survey, Washington Post",
+    "tags": {
+      "visible": [
+        "dating",
+        "youth",
+        "gender"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "imageUrl": "https://ipfs.io/ipfs/QmdYetnBbwcBzt1VAdV7wGe1yHp1XyoFx7qToPPjnEwK7W",
+    "title": "Percentage of men, no sex since age 18, heterosexual men 18-30, by age group",
+    "source": "GSS 2021",
+    "tags": {
+      "visible": [
+        "dating",
+        "youth",
+        "gender"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "imageUrl": "https://ipfs.io/ipfs/QmS6mP8vgt1DTZhp3xF1QLzr3CHSsNiomYaWArLxKyJkBh",
+    "title": "CALIFORNIA State of Student Debt",
+    "description": "average student debt balance\nper borrower in California",
+    "source": "SBPC's analysis of data from the Federal Reserve Bank",
+    "tags": {
+      "visible": [
+        "economy",
+        "youth",
+        "college",
+        "education",
+        "california"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "imageUrl": "https://ipfs.io/ipfs/QmfPDPDXpe9amwsQTegnHda1HS3SSbsFdA1f2rJrUHPagw",
+    "title": "Gen Z is Lonely",
+    "description": "Percent of US adults who are lonely shown as demographics",
+    "tags": {
+      "visible": [
+        "youth",
+        "mental-illness",
+        "demographics"
+      ],
+      "hidden": [
+        "loneliness",
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "imageUrl": "https://ipfs.io/ipfs/QmRJ2uvj8ahd1roswsVf2ma6a7CrY3KRLeE4a4jgpDdaxs",
+    "title": "Male attractiveness level females will \"like\" vs. female attractiveness",
+    "description": "Male and female advantage on online dating apps",
+    "source": "OKCupid Analysis",
+    "tags": {
+      "visible": [
+        "dating",
+        "youth",
+        "gender"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "imageUrl": "https://ipfs.io/ipfs/QmR9rVrRVbQNNspi4SzCNnG1ziou9hJL9tEjEWiA2jhqq7",
+    "title": "Income Gini coefficient for 162 nations in the world including Tinder",
+    "tags": {
+      "visible": [
+        "dating",
+        "youth",
+        "gender",
+        "economy"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "imageUrl": "https://ipfs.io/ipfs/QmZ7GomFGky6uW8ZkDVseE55ysfwcHSTbbQPtCRaDJHgim",
+    "title": "Nearly two-thirds of Americans report that they do live paycheck to paycheck",
+    "source": "The Hill (meta-citing)",
+    "tags": {
+      "visible": [
+        "economy",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "imageUrl": "https://ipfs.io/ipfs/QmYqPC2XKg2R2Lr9zkmysj3QvRdBEQr3aSGXebh36JuPmy",
+    "title": "Workers unable to pay emergency expenses",
+    "description": "63% of workers unable to pay a $500\nemergency expense, survey finds.\nHow employers may help change that",
+    "source": "CNBC 2023 (meta-citing)",
+    "tags": {
+      "visible": [
+        "economy",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "imageUrl": "https://ipfs.io/ipfs/QmZ7GjwoLNBfRubteqS4A6sEQ1sLTTvyEYGkMfDvp8WGdd",
+    "title": "Economic power share by generation",
+    "tags": {
+      "visible": [
+        "demographics",
+        "economy"
+      ],
+      "hidden": [
+        "boomers",
+        "english",
+        "wealth"
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "imageUrl": "https://ipfs.io/ipfs/QmZk22WYwR8S2XPYpeHb6pdboenfotPiXtFXJtsu4f7Mrv",
+    "title": "Foreign-born share of US population",
+    "description": "in millions",
+    "source": "@CIS_org",
+    "tags": {
+      "visible": [
+        "demographics",
+        "usa",
+        "immigration",
+        "race"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "imageUrl": "https://ipfs.io/ipfs/QmXVbnK1VNL88NQuP7Fx3zWV4qcMWr99FRDQhr8FdsHieN",
+    "title": "Three-fourths of employment growth since 2019 went to immigrants",
+    "description": "Immigrant employment (legal and illegal) is up 3.2 million since 2019, while U.S.-born employment\nis up only 971,000. In the last year U.S.-born employment has actually declined ",
+    "source": "cis.org, Center for Immigration Studies",
+    "sourceUrl": "https://www.cis.org",
+    "tags": {
+      "visible": [
+        "immigration",
+        "economy",
+        "dei",
+        "usa"
+      ],
+      "hidden": [
+        "english",
+        "unemployment"
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "imageUrl": "https://ipfs.io/ipfs/Qme18g38C4LrruXuY8648d3Ztga2e1no8cfxhUxEUukgks",
+    "title": "Global Fertility Rates by Region",
+    "source": "UN Population Division",
+    "tags": {
+      "visible": [
+        "demographics",
+        "race"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "imageUrl": "https://ipfs.io/ipfs/QmWDAo8LUouo61DGoxG6weMvRQH3T98ET3gwghvbdLg4L7",
+    "title": "Are Americans Moving From Blue to Red States?",
+    "description": "Movement between blue and red U.S. states in 2005 and 2022 (in million residents)",
+    "source": "US Census Bureau, Statista",
+    "tags": {
+      "visible": [
+        "usa",
+        "left-right"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 71,
+    "imageUrl": "https://ipfs.io/ipfs/QmPBzxxkCxpsQXtPrxZLZZ8QuDYzHniCAzKqAoNhL6KKfT",
+    "title": "The Effective Rule of Law Propels Prosperity",
+    "description": "Property Rights Score, Freedom from Corruption Score & Rule of Law Score\nand\nGDP per Capita (PPP)",
+    "source": "See on image",
+    "tags": {
+      "visible": [
+        "economy",
+        "law-order"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
