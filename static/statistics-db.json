@@ -1224,5 +1224,105 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 72,
+    "imageUrl": "https://ipfs.io/ipfs/QmZE9JuFnYe6fdW4sHdxev2TMfs4TF81yzYfLXAAM3dKms",
+    "title": "Public social spending as a share of GDP",
+    "description": "Social spending includes, among others, the following areas: health, old age, incapacity-related benefits,\nfamily, active labor market programmes, unemployment, and housing.",
+    "source": "OECD (2023, 1985), Lindert (2004)",
+    "tags": {
+      "visible": [
+        "economy",
+        "taxes",
+        "democracy",
+        "socialism"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "imageUrl": "https://ipfs.io/ipfs/QmccwxAPQeF4LLJrhoe7Zzn2xmUbqheZjVuAnkQmxWknem",
+    "title": "Steigt der Mindestlohn, werden die Brötchen teurer",
+    "description": "Entwicklung des Mindestlohns und der Preise in verschiedenen Branchen",
+    "source": "Stat. Bundesamt, Bundesarbeitsministerium, Gesamtmetallberechnungen",
+    "tags": {
+      "visible": [
+        "economy",
+        "germany",
+        "minimum-wage"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 74,
+    "imageUrl": "https://ipfs.io/ipfs/QmXxAebG6VpPiD1sh4Q1gnZouGq8vJVL377JHEmRSBLvX7",
+    "title": "The average single female spends $3,515 in one month or of her income after taxes",
+    "tags": {
+      "visible": [
+        "economy",
+        "gender",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 75,
+    "imageUrl": "https://ipfs.io/ipfs/QmcUj1o2YizamZu4YzsdaJ8EwzHZ1Q8cbgs9VST2xdC9vW",
+    "title": "Homicide Accusation Rates in Canada",
+    "source": "Statistics Canada",
+    "tags": {
+      "visible": [
+        "race",
+        "crime",
+        "canada"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 76,
+    "imageUrl": "https://ipfs.io/ipfs/QmeXDyvGxpMVXVaSmanR7QitDDKKBcJQBpqUJDg87Ug547",
+    "title": "More Women Say it is \"Morally Wrong\" for Married Men to Have an Affair",
+    "description": "Percentage Who believe it is always MORALLY WRONG when a married man or married woman has an affair...",
+    "source": "Survey Center on American Life",
+    "tags": {
+      "visible": [
+        "gender",
+        "dating"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "imageUrl": "https://ipfs.io/ipfs/QmUPny1o7vmpkMdYYVFGi7atf4P5AtsgDuNz6xG14dsb1r",
+    "title": "Majority of Americans Can No Longer Afford an Average House",
+    "description": "Household income required to afford a median-priced home in the United States",
+    "source": "Realtor.com, US Census Bureau",
+    "tags": {
+      "visible": [
+        "economy",
+        "youth",
+        "usa",
+        "housing"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
