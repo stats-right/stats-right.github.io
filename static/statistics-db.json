@@ -1324,5 +1324,58 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 78,
+    "imageUrl": "https://ipfs.io/ipfs/QmWQXSnmwLEKctGQzdSpsdYxMZtebaePJPbejZG1eGMtAE",
+    "title": "Tatverdächtige Vergewaltiger pro 100.000 Einwohner nach Nationalität (Deutschland, 2024)",
+    "source": "BKA, Polizeiliche Kriminalstatistik 2024",
+    "sourceUrl": "https://x.com/jonasgreindberg/status/1916440422114541846",
+    "tags": {
+      "visible": [
+        "immigration",
+        "rape",
+        "race",
+        "crime",
+        "germany"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "imageUrl": "https://ipfs.io/ipfs/QmdVs8ZtgdP2YzeEnp7DK7ZL85GFx6PYuCzZTnAwEVf9Q6",
+    "title": "US Robbery Reported by Population by race",
+    "source": "FBI",
+    "tags": {
+      "visible": [
+        "race",
+        "crime",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "imageUrl": "https://ipfs.io/ipfs/QmfK5VSRsHH1ABXz4gc6uPFXSYyktQkst1QotQRYyjoija",
+    "title": "Messerangriffe in 5 bayerischen Städten, *020 und 2024",
+    "description": "Knife attacks in 5 Bavarian cities",
+    "source": "Bavarian city governments per information request, X",
+    "sourceUrl": "https://x.com/jonasgreindberg/status/1915717976159879178",
+    "tags": {
+      "visible": [
+        "germany",
+        "crime",
+        "immigration"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
   }
 ]
