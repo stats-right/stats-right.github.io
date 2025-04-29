@@ -1377,5 +1377,40 @@
         "german"
       ]
     }
+  },
+  {
+    "id": 81,
+    "imageUrl": "https://ipfs.io/ipfs/QmVB8ERdcBSmf64oGDZTkSWp794QSxeUcaCdy2jsRcxtvd",
+    "title": "Most Important Factors When Deciding Vote (Canada)",
+    "description": "By Age groups: 18-29, 30-44, 45-59, 60+",
+    "source": "Taylor Jackson & Abacus Data",
+    "tags": {
+      "visible": [
+        "canada",
+        "youth",
+        "demographics",
+        "trump"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "imageUrl": "https://ipfs.io/ipfs/QmZGBXrfGE8qccbjSyNApcsEknpMqivxfiNNYH4n7vmeM3",
+    "title": "A wide ideology gap is opening up between young men and women in countries across the world",
+    "description": "Political ideology of 18-29s (% liberal minus % conservative), by sex",
+    "source": "Daniel Cox. Survey Center on American Life; Gallup Poll Social Series",
+    "tags": {
+      "visible": [
+        "gender",
+        "demographics",
+        "left-right"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
