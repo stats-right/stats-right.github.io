@@ -1412,5 +1412,21 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 83,
+    "imageUrl": "https://ipfs.io/ipfs/QmNdoMsq2esn1PJ1vHqr33FZZ9LzQvFcGdHE9QGi72uJVs",
+    "title": "Canada: net international migration, 1952 to 2023",
+    "source": "Source: Statistics Canada. Table 17-10-0040-01",
+    "tags": {
+      "visible": [
+        "canada",
+        "immigration",
+        "demographics"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
