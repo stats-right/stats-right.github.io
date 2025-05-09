@@ -1446,5 +1446,56 @@
         "german"
       ]
     }
+  },
+  {
+    "id": 85,
+    "imageUrl": "https://ipfs.io/ipfs/Qmee5GYwYusen9VZhMeFzRtD4NTjy1HiXGYRaAcizxjkut",
+    "title": "Boardroom: Minority White Male",
+    "description": "Women and non-White men are now a majority in the Fortune 500 boardroom",
+    "tags": {
+      "visible": [
+        "race",
+        "usa",
+        "economy",
+        "dei"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "imageUrl": "https://ipfs.io/ipfs/QmYSUBipMGQ67RVdcjzQuUGPDuXq3zEGPvditT3r3ZkV4n",
+    "title": "Percentage of the population aged 65 and older and old age dependency ratios, United Kingdom, 2039",
+    "description": "Projection by migration level for 2039, percentage of people aged 65 or older",
+    "tags": {
+      "visible": [
+        "demographics",
+        "immigration",
+        "economy",
+        "uk"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "imageUrl": "https://ipfs.io/ipfs/QmdPq6ojJVQLsh4Kynt2kLx4Lesj2ABhNhDS7Fzm6JtFQM",
+    "title": "African Americans and Hispanics Most Supportive of Hate Speech Laws",
+    "description": "Would you favor or oppose a law that would make it illegal to say offensive or insulting things in public about...",
+    "tags": {
+      "visible": [
+        "free-speech",
+        "race",
+        "english"
+      ],
+      "hidden": [
+        "usa"
+      ]
+    }
   }
 ]
