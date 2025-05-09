@@ -1428,5 +1428,23 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 84,
+    "imageUrl": "https://ipfs.io/ipfs/QmatYgoy5S2QPEi6jGNkaAhnL9CvtypTjB97hPHzP8MGWr",
+    "title": "Tatverdächtige pro 100.000 Einwohner",
+    "description": "Straftaten insgesamt, Deutschland 2024",
+    "source": "BKA, PKS 2024 T62, Creator: @jonasgreindberg",
+    "tags": {
+      "visible": [
+        "crime",
+        "immigration",
+        "demographics",
+        "germany"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
   }
 ]
