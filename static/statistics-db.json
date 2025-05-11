@@ -1497,5 +1497,21 @@
         "usa"
       ]
     }
+  },
+  {
+    "id": 88,
+    "imageUrl": "https://ipfs.io/ipfs/QmcAL6kBESmwkaeoDnxQLCPFQ2Rero6bEWzDf3Va1GFXru",
+    "title": "Public From-Scratch US and EU Companies Less than 50 Years Old With $10B+ Market Cap",
+    "tags": {
+      "visible": [
+        "usa",
+        "eu",
+        "economy",
+        "bureaucracy"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
