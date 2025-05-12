@@ -1513,5 +1513,22 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 89,
+    "imageUrl": "https://ipfs.io/ipfs/QmTwteggDDvR61s9DxhnZ85v4N67HWrf5bNPvMeCJ7essa",
+    "title": "Nuclear expansion: France GDPR and CO2 per person",
+    "tags": {
+      "visible": [
+        "france",
+        "climate-change",
+        "economy",
+        "energy",
+        "nuclear"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
