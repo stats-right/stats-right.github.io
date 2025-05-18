@@ -1530,5 +1530,24 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 90,
+    "imageUrl": "https://ipfs.io/ipfs/QmPUumC7PFwyVJbgSCpSkWoRTXigEY7KAfnQ2kCsPfn8hR",
+    "title": "Anhänger der Parteien und ihre schulischen Leistungen in Mathematik",
+    "description": "Math survey by party affiliation",
+    "source": "Allensbacher Archiv, lfD-Umfrage Nr. 12054",
+    "tags": {
+      "visible": [
+        "german",
+        "genetics",
+        "iq",
+        "intelligence",
+        "left-right"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
   }
 ]
