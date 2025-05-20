@@ -1549,5 +1549,19 @@
         "german"
       ]
     }
+  },
+  {
+    "id": 91,
+    "imageUrl": "https://ipfs.io/ipfs/QmWkyfbMkeU9tgdqd5TrCWzX5GcYvvoMzxF8SW9ou6epth",
+    "title": "2022 U.N. Population Projections (Europa and Africa)",
+    "source": "UN",
+    "tags": {
+      "visible": [
+        "english",
+        "demographics",
+        "race"
+      ],
+      "hidden": []
+    }
   }
 ]
