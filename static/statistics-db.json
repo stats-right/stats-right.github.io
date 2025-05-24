@@ -1563,5 +1563,94 @@
       ],
       "hidden": []
     }
+  },
+  {
+    "id": 92,
+    "imageUrl": "https://ipfs.io/ipfs/QmeA82ZXxbNuDEHinRmhaqWDXM5rMV1x1VBui9uBxheFLv",
+    "title": "Welcher Fernsehsender ist Ihrer Wahrnehmung nach am wirtschaftsfeindlichsten?",
+    "source": "Media Tenor surveys",
+    "tags": {
+      "visible": [
+        "germany",
+        "media",
+        "free-speech",
+        "left-right"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "imageUrl": "https://ipfs.io/ipfs/QmUcSpaorgsettoM76hh1L17x6J8GcEh2sj8agVjAaiPh7",
+    "title": "Medien: Glaubwürdigkeitslücke",
+    "description": "Privatfernsehen, Internet, Zeitschriften",
+    "source": "Allensbacher Archiv, IfD-Umfrage 12091",
+    "tags": {
+      "visible": [
+        "germany",
+        "media",
+        "free-speech",
+        "left-right"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "imageUrl": "https://ipfs.io/ipfs/QmXQrpAQ5DQzW79ReUwuSAYhnjJitqjHE4j647Mojay8nN",
+    "title": "Anzahl der Berichte von ARD/ZDF: positiv, neutral, negativ",
+    "description": "ÖRR",
+    "source": "Media Tenor data",
+    "tags": {
+      "visible": [
+        "germany",
+        "media",
+        "free-speech",
+        "left-right"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "imageUrl": "https://ipfs.io/ipfs/QmWfB8n1QDbeyrJKrSXfwfsnJCxsuV9tkjeNHC4bqpVReY",
+    "title": "Einstellung zum Gendern nach Parteianhängerschaft",
+    "source": "Allensbacher Archiv, IfD-Umfrage 12036 (Juni 2021)",
+    "tags": {
+      "visible": [
+        "germany",
+        "media",
+        "free-speech",
+        "left-right"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 96,
+    "imageUrl": "https://ipfs.io/ipfs/QmUxZn5GHe5s3uidEg5ZSvup9jk4LEUzAsQtfZy6b7cbPo",
+    "title": "Eigene Meinung im Vergleich",
+    "description": "Fühlen Sie sich danach, dass die eigene Meinung in den Media vertreten wird?",
+    "source": "Allensbacher Archiv, IfD-Umfrage 12091, August 2024",
+    "tags": {
+      "visible": [
+        "germany",
+        "media",
+        "free-speech",
+        "left-right",
+        "usa"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
   }
 ]
