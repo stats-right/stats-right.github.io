@@ -1652,5 +1652,21 @@
         "german"
       ]
     }
+  },
+  {
+    "id": 97,
+    "imageUrl": "https://ipfs.io/ipfs/QmZr9Zf75vgXrHQV1ALkeXZB7GiKBbZrYQLZUWtaJ1Rud9",
+    "title": "Integenerational wealth",
+    "description": "Share of national wealth by baby boomers, generation X, millenials",
+    "tags": {
+      "visible": [
+        "usa",
+        "economy",
+        "demographics"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
