@@ -1668,5 +1668,23 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 98,
+    "imageUrl": "https://ipfs.io/ipfs/QmcyfLJwncQoUe5hmUoEr3PK1Q7hQ5NzMmGrrnkiiY6jqA",
+    "title": "Auffällige Nationen in der PKS in Deutschland 2023",
+    "description": "Tatverdächtige nach Nationen und Delikten (Straftaten)",
+    "source": "Polizeiliche Kriminalstatistik 2023, Welt",
+    "tags": {
+      "visible": [
+        "germany",
+        "immigration",
+        "crime",
+        "race"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
   }
 ]
