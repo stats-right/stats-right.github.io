@@ -1719,5 +1719,21 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 101,
+    "imageUrl": "https://ipfs.io/ipfs/QmazVAyeiTjpd9RcLiEepKzWMrVo2Svpeet9p2pL3SCdFU",
+    "title": "Genes vs Environment: Inheritability from twin / family studies",
+    "source": "Abdellaoui, A., Verweij, K.J.H. Dissecting polygenic signals from genome-wide association studies on human behaviour. Nat Hum Behav 5, 686–694 (2021).",
+    "tags": {
+      "visible": [
+        "genetics",
+        "race",
+        "science"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
