@@ -1702,5 +1702,22 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 100,
+    "imageUrl": "https://ipfs.io/ipfs/Qmb4d9GdXtz5aRUroQoJNFvV7USZQumbq9cRKgzSWt6Tfo",
+    "title": "Cash benefits in Denmark by immigration origin",
+    "source": "Statistics Denmark (INDKP109)",
+    "tags": {
+      "visible": [
+        "immigration",
+        "economy",
+        "welfare",
+        "denmark"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
