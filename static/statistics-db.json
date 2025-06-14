@@ -1735,5 +1735,23 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 102,
+    "imageUrl": "https://ipfs.io/ipfs/QmeK53Cvw4G8bC9PHyiHNR9RinyKAFFwje8XqSu51CSaYE",
+    "title": "There is more diversity of thought on the political Right than on the political Left",
+    "description": "Although they pride themselves on open-mindedness,\nliberal thinking actually coalesces around a vety narrow\nset of opinion, whereas the Right diverges widely.",
+    "source": "Adrian Lüders, Dino Carpentras, Michael Quayle, Attitude networks as intergroup realities: Using network-modelling to research attitude-identity relationships in polarized political contexts",
+    "sourceUrl": "https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12665",
+    "tags": {
+      "visible": [
+        "left-right",
+        "morality",
+        "free-speech"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
