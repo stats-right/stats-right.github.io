@@ -1753,5 +1753,23 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 103,
+    "imageUrl": "https://ipfs.io/ipfs/QmVgsh3n4bo77nPvzV2ae8R3MPpWeJ1GHmVpMDCktJ8hYS",
+    "title": "Net fiscal contribution of first-generation immigrants (2010-2019, by age of entry)",
+    "description": "Net fiscal contribution in euros (left axis), age of entry (right axis).",
+    "source": "van de Beek J. et al. (2021)",
+    "tags": {
+      "visible": [
+        "immigration",
+        "economy",
+        "welfare",
+        "netherlands"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
