@@ -1771,5 +1771,19 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 104,
+    "imageUrl": "https://ipfs.io/ipfs/QmZZm4jeL3DBAL7nkdkPAKQYadaViy5RcJTEwaeNVW1izA",
+    "title": "National IQ and fertility rate",
+    "tags": {
+      "visible": [
+        "demographics",
+        "genetics"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
