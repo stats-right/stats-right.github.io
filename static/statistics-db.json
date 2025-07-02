@@ -1785,5 +1785,21 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 105,
+    "imageUrl": "https://ipfs.io/ipfs/QmbvvxEqjDxFaudYjkNXEXRV5MjN68KpxPoA5eU5Dir15M",
+    "title": "Foreign Born Population and Housing Prices",
+    "source": "WDI, International House Price Database FRBD, jonatanpallesen",
+    "tags": {
+      "visible": [
+        "economy",
+        "immigration",
+        "housing"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
