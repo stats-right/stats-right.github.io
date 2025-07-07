@@ -1801,5 +1801,23 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 106,
+    "imageUrl": "https://ipfs.io/ipfs/Qmd79Wjg5aqv49wQRKBmM5me181Ygy2VeEYc6ZiXgVPrHS",
+    "title": "Doctoral Degrees, By Field and Gender, 2022",
+    "source": "Council of Graduate Schools",
+    "tags": {
+      "visible": [
+        "gender",
+        "university",
+        "left-right",
+        "education"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
   }
 ]
