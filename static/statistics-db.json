@@ -1819,5 +1819,91 @@
         "usa"
       ]
     }
+  },
+  {
+    "id": 107,
+    "imageUrl": "https://ipfs.io/ipfs/QmV2wpBDynkZqsNf79nvLPM9TyHSKoFMQ5TYk5ALvg9jXi",
+    "title": "Young male college grads are now jobless at the same rate as non-grads",
+    "description": "Unemployment rate among US men and women aged 22-27, by education level\n%, seasonally adjusted, three-month rolling average",
+    "tags": {
+      "visible": [
+        "youth",
+        "left-right",
+        "gender",
+        "dei",
+        "education"
+      ],
+      "hidden": [
+        "english",
+        "usa"
+      ]
+    }
+  },
+  {
+    "id": 108,
+    "imageUrl": "https://ipfs.io/ipfs/QmYrpHMAP4zZW8egMhNoNWisUPkVteKFmPswWi7xvD6nwM",
+    "title": "How are ethnic minority Britons intending to vote?",
+    "tags": {
+      "visible": [
+        "uk",
+        "election",
+        "demographics",
+        "immigration"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 109,
+    "imageUrl": "https://ipfs.io/ipfs/QmbMEKZ15R85ciJbTrf8Y9F2TvbiXGG1oymEVj3vfUHeqL",
+    "title": "Bürgergeld 2024 in Deutschland",
+    "description": "nach Deutsche, mit Migrationshintergrund, Ausländer",
+    "source": "destatis, Bundesagentur für Arbeit, Tichys Einblick",
+    "tags": {
+      "visible": [
+        "germany",
+        "welfare",
+        "immigration"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 110,
+    "imageUrl": "https://ipfs.io/ipfs/QmcjSSJnYuTmvi3DXJpx3SowELLEDWXhvLtDB3dA4gCbhG",
+    "title": "Racial Bias in Sentencing Judges",
+    "tags": {
+      "visible": [
+        "race",
+        "law",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 111,
+    "imageUrl": "https://ipfs.io/ipfs/QmNtpSfk765MHaupgpFL8XkZG95G2ixKKK2x9GyNzpXbWz",
+    "title": "Government Tax Effect by Race",
+    "source": "HereticalInsights",
+    "sourceUrl": "https://hereticalinsights.substack.com/p/the-price-of-racial-diversity",
+    "tags": {
+      "visible": [
+        "race",
+        "economy",
+        "welfare",
+        "taxes",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
