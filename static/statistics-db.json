@@ -1905,5 +1905,71 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 112,
+    "imageUrl": "https://ipfs.io/ipfs/QmRyF597wV5E366htcSWGAU9UcdWWJYUB6y6ZMDX6jmfmk",
+    "title": "Birth rates are falling more steeply among progressives than conservatives",
+    "description": "Average number of children born to people at different points along the political spectrum, by era",
+    "source": "US General Social Survey, FT analysis",
+    "tags": {
+      "visible": [
+        "demographics",
+        "left-right",
+        "usa"
+      ],
+      "hidden": [
+        "english",
+        "fertility"
+      ]
+    }
+  },
+  {
+    "id": 113,
+    "imageUrl": "https://ipfs.io/ipfs/Qmdaj4LbeM9dk9bcRZixkeh5D8CUqpyHJgpSF1xBcCLDeE",
+    "title": "Prior arrests of persons admitted to state prisons in 34 states in 2014",
+    "description": "Prior arrests: Percent of persons admitted",
+    "tags": {
+      "visible": [
+        "crime",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 114,
+    "imageUrl": "https://ipfs.io/ipfs/QmbUmdjhgfDniXfZGyBv9o4dhRHcxFbwycgiMydSg654ot",
+    "title": "Wage and Salary Income: Employed Men and Women by Marital Status, 2016",
+    "source": "IPUMS-USA, University of Minnesota",
+    "tags": {
+      "visible": [
+        "economy",
+        "dating",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 115,
+    "imageUrl": "https://ipfs.io/ipfs/QmSk8hNrTpmC4Bhe9ukFsowq8M3wAEJ6tqa3jHEw3Fd7SK",
+    "title": "Gewaltangriffe auf Politiker im 1. Halbjahr 2025",
+    "source": "Nius, Innenministerium",
+    "tags": {
+      "visible": [
+        "germany",
+        "crime",
+        "left-right",
+        "ngos"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
   }
 ]
