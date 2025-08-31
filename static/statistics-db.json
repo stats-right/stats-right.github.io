@@ -1971,5 +1971,22 @@
         "german"
       ]
     }
+  },
+  {
+    "id": 116,
+    "imageUrl": "https://ipfs.io/ipfs/QmcE35zFp5LXH2Z9dBWFezKQyvgC3WX5v2X13dL9ofJxq1",
+    "title": "Sex recession",
+    "description": "% of adults 18-64 who have sex weekly or more",
+    "source": "General Social Survey, Family Studies",
+    "tags": {
+      "visible": [
+        "dating",
+        "demographics",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
