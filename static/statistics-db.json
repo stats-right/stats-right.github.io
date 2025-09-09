@@ -1988,5 +1988,67 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 117,
+    "imageUrl": "https://ipfs.io/ipfs/QmNiNR2KFHwqPFjNR4oERXe6wHLWRd1K2vAVj7PVmaCkkz",
+    "title": "How deep does the media bury the Race of a Murderer in their articles?",
+    "source": "Washington Free Beacon, fentasyl",
+    "tags": {
+      "visible": [
+        "race",
+        "crime",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 118,
+    "imageUrl": "https://ipfs.io/ipfs/QmeQH4UmsMXkUeTRSEd7rf6zX26qzv4EbkQgx8YEAiaFGU",
+    "title": "Generative AI: Juniors vs Seniors",
+    "tags": {
+      "visible": [
+        "economy",
+        "ai"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 119,
+    "imageUrl": "https://ipfs.io/ipfs/QmUJNYTBtq1UjMT8zDpxLDjxiMn3nNygfvVU5NPnGWqGz4",
+    "title": "Share of young adults living with a parent",
+    "tags": {
+      "visible": [
+        "economy",
+        "youth",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 120,
+    "imageUrl": "https://ipfs.io/ipfs/QmYRKG3sv6QBmKr5fgbthR3ixFNSoCgyquzaXUbvt8cryC",
+    "title": "Change in D.C. students proficient in English language arts and math",
+    "source": "D.C. Office of the State Superintendent of Education",
+    "tags": {
+      "visible": [
+        "race",
+        "dei",
+        "education",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
