@@ -2050,5 +2050,22 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 121,
+    "imageUrl": "https://ipfs.io/ipfs/QmZqZ55DJRGKDSVddAUFiuTj8AADZAxrUGNetGnQERVTwz",
+    "title": "% said partially justified or more: Justification for Murder of Elon Musk and Donald Trump Elon Musk and Percent Who Say Destroying Tesla Dealerships is Partially Acceptable",
+    "source": "Fox News",
+    "sourceUrl": "https://www.foxnews.com/us/new-bombshell-study-reveals-assassination-culture-spreading-left-under-president-trump",
+    "tags": {
+      "visible": [
+        "crime",
+        "left-right",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
