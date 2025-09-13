@@ -2067,5 +2067,22 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 122,
+    "imageUrl": "https://ipfs.io/ipfs/QmbroGbCDL3kWFg7fSt7YGJ4qLc5tmDFmZ8vdC6MGghGxN",
+    "title": "Relative income level of over 65s (working-age average = 100)",
+    "description": "French pensioners now have higher incomes than working-age adults",
+    "source": "OECD, Financial Times",
+    "tags": {
+      "visible": [
+        "economy",
+        "youth",
+        "demographics"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
