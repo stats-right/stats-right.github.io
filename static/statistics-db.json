@@ -2084,5 +2084,198 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 123,
+    "imageUrl": "https://ipfs.io/ipfs/Qmadz6dNhh6dRwGQywUxaD7W94NZxRPYfavctXCJZAwcTU",
+    "title": "How Fertility Actually Changes With Age",
+    "tags": {
+      "visible": [
+        "demographics",
+        "gender",
+        "biology"
+      ],
+      "hidden": [
+        "pregnancy",
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 124,
+    "imageUrl": "https://ipfs.io/ipfs/QmSJxCyaBmCqgKTCBn5yq16McqLBAW1b6FWopPpRmX1f8n",
+    "title": "Nations with greater gender equality have a *lower* percentage of female STEM graduates",
+    "tags": {
+      "visible": [
+        "dei",
+        "gender",
+        "equality"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 125,
+    "imageUrl": "https://ipfs.io/ipfs/QmXMLz1DYPh3cBKNME1GfsmDBHPjpgQWNwJ9hTKs5JHxeL",
+    "title": "DO THE RICH PAY THEIR FAIR SHARE?",
+    "description": " FEDERAL INCOME TAXES AND ADJUSTED GROSS INCOME EARNED IN 2021",
+    "source": "Internal Revenue Service, heritage",
+    "tags": {
+      "visible": [
+        "economy",
+        "usa",
+        "taxes",
+        "equality"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 126,
+    "imageUrl": "https://ipfs.io/ipfs/QmYzYmJ2w4rzg4JqvbkhHfj147Zy9vZ4VkaCVzRR5Zjrhs",
+    "title": "Anhänger der Parteien und ihre schulischen Leistungen in Mathematik",
+    "tags": {
+      "visible": [
+        "germany",
+        "education",
+        "left-right",
+        "economy"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 127,
+    "imageUrl": "https://ipfs.io/ipfs/QmQdJ9Sk8Eja2HJkSnqWLUbAkcoDP2t1yRddZqk5qjq16c",
+    "title": "Using deep learning to predict ideology from facial photographs",
+    "description": "For females (though not males), high attractiveness scores were found among those the model identified as likely to be conservative. ",
+    "source": "Ludeke et al.",
+    "sourceUrl": "https://www.nature.com/articles/s41598-023-31796-1",
+    "tags": {
+      "visible": [
+        "science",
+        "left-right"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 128,
+    "imageUrl": "https://ipfs.io/ipfs/QmV8wQibNv2fxzLdTaBdP3rbMs3C2eavHiM5npVA7jn3fT",
+    "title": "Kumulierte Auftritte aller Politiker aus Bundestagsparteien in allen ARD/ZDF-Talkshows seit der Bundestagswahl im Februar 2025",
+    "source": "oerrblog",
+    "sourceUrl": "https://x.com/OERRBlog/status/1972301606772478264/photo/1",
+    "tags": {
+      "visible": [
+        "germany",
+        "free-spech",
+        "left-right",
+        "media"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 129,
+    "imageUrl": "https://ipfs.io/ipfs/Qme8uoZD2VGiqj8ZcbPgxQMKtzjsaS4MeUaFnLB2s9tniG",
+    "title": "Distribution of graduates by education degree and IQ",
+    "tags": {
+      "visible": [
+        "education",
+        "usa",
+        "iq"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 130,
+    "imageUrl": "https://ipfs.io/ipfs/Qmbyu26ofwC5gQGQaTbjer9cuffohagFXzhxXhHxHru6tH",
+    "title": "Average IQ on Danish military test (Danish norms) by first name",
+    "tags": {
+      "visible": [
+        "denmark",
+        "iq",
+        "race"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 131,
+    "imageUrl": "https://ipfs.io/ipfs/QmVfGVrYWCWSXvQ2HhHMtuTN8y81R1eXkQztWu89adqTRE",
+    "title": "Muslim School-Aged Children % in European Capitals (2000-2025)",
+    "description": "Growth trajectories showing the percentage of Muslim students in\ncapital city schools",
+    "tags": {
+      "visible": [
+        "immigration",
+        "eu",
+        "race",
+        "demographics",
+        "youth"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 132,
+    "imageUrl": "https://ipfs.io/ipfs/QmWdfUDdP57rHXPBm37xTFCzFxi7d3nD46tRo6MqUT8mDW",
+    "title": "Junge Linke befürworten politische Gewalt",
+    "description": "Befragung in den USA: „Ist es jemals gerechtfertigt, dass Bürger zu Gewalt greifen, um politische Ziele zu erreichen?\"",
+    "tags": {
+      "visible": [
+        "violence",
+        "left-right"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
+  },
+  {
+    "id": 133,
+    "imageUrl": "https://ipfs.io/ipfs/QmWyctZ6H1Kf194z6qwwEpSM7LUDWu2jHXfeRc1s1QWaak",
+    "title": "The Laffer Curve",
+    "tags": {
+      "visible": [
+        "taxes",
+        "economy"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 134,
+    "imageUrl": "https://ipfs.io/ipfs/QmbUmdjhgfDniXfZGyBv9o4dhRHcxFbwycgiMydSg654ot",
+    "title": "Wage and Salary Income: Employed Men and Women by Marital Status",
+    "tags": {
+      "visible": [
+        "economy",
+        "gender",
+        "equality",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
   }
 ]
