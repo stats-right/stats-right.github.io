@@ -2277,5 +2277,52 @@
         "english"
       ]
     }
+  },
+  {
+    "id": 135,
+    "imageUrl": "https://ipfs.io/ipfs/QmXNFuQiKSSR2JayfgRAwqWN7doSZPaA79oKJ13CqdL9v1",
+    "title": "Birth rates are falling more steeply among progressives than conservatives",
+    "source": "Financial Times, US GSS",
+    "tags": {
+      "visible": [
+        "demographics",
+        "left-right",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 136,
+    "imageUrl": "https://ipfs.io/ipfs/QmRDvfMD1pURn8cP69ZYzWbz8voWJrxkorTK6onDvcbm9F",
+    "title": "Total Fertility Rate by County",
+    "source": "CDC Natality 2023",
+    "tags": {
+      "visible": [
+        "demographics",
+        "left-right",
+        "usa"
+      ],
+      "hidden": [
+        "english"
+      ]
+    }
+  },
+  {
+    "id": 137,
+    "imageUrl": "https://ipfs.io/ipfs/QmQBDnMbkUKt4fs6Q26oM59GA1tZVJBddLAJudJAjk6NRR",
+    "title": "Politiker aus Bundestagsparteien im Verlauf der ARD/ZDF Talkshows",
+    "tags": {
+      "visible": [
+        "germany",
+        "left-right",
+        "media"
+      ],
+      "hidden": [
+        "german"
+      ]
+    }
   }
 ]
