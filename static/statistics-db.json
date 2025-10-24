@@ -2324,5 +2324,24 @@
         "german"
       ]
     }
+  },
+  {
+    "id": 138,
+    "imageUrl": "https://ipfs.io/ipfs/QmSbvkrNyw2GRVnF5ctCjvCxbaeMotfYKWM8jAkdrsB52i",
+    "title": "Reverse gender pay gap",
+    "description": "Gross pay for people aged 16-24 in full time work",
+    "source": "The Times and The Sunday Times, CSJ",
+    "tags": {
+      "visible": [
+        "gender",
+        "youth",
+        "economics",
+        "equality"
+      ],
+      "hidden": [
+        "usa",
+        "english"
+      ]
+    }
   }
 ]
